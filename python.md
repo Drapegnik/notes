@@ -1,0 +1,7 @@
+# Python notes
+
+* [Gamma and related functions in SciPy](https://www.johndcook.com/blog/gamma_python/) - [#gamma #beta #scipy]
+* [10 полезных Python библиотек](https://tproger.ru/translations/10-python-libraries-you-might-not-know/) - [#python #features]
+* [Hidden features of Python](https://stackoverflow.com/questions/101268/hidden-features-of-python) - [#python #features]
+* [Python: коллекции, часть 3/4](https://habrahabr.ru/post/319876/) - [#python #toread #features #collections]
+  <!-- * []() - [# #python] -->
