@@ -8,11 +8,13 @@
 * [`js-articles.md`](https://drapegnik.github.io/notes/js-articles)
 * [`js-courses.md`](https://drapegnik.github.io/notes/js-courses)
 * [`js-libs.md`](https://drapegnik.github.io/notes/js-libs)
+* [`js-random.md`](https://drapegnik.github.io/notes/js-random)
 * [`python.md`](https://drapegnik.github.io/notes/python)
 * [`ml.md`](https://drapegnik.github.io/notes/ml) - data science & machine learning sources
 * [`cv.md`](https://drapegnik.github.io/notes/cv) - computer vision sources
 * [`bsu.md`](https://drapegnik.github.io/notes/bsu) - study notes
 * [`tools.md`](https://drapegnik.github.io/notes/tools)
+* [`git.md`](https://drapegnik.github.io/notes/git)
 
 ## search
 

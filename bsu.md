@@ -14,7 +14,7 @@
 * [A simple RSA implementation in Python](https://gist.github.com/JonCooperWorks/5314103) - [#rsa]
 * [Simple & Easy-to-read implementation](http://code.activestate.com/recipes/578838-rsa-a-simple-and-easy-to-read-implementation/) - [#rsa]
 
-# other
+## other
 
 * [ПОЛУЧЕНИЕ ЛИЦЕНЗИОННЫХ КЛЮЧЕЙ И АКТИВАЦИЯ ПО](https://fpmi.bsu.by/ImgFpmi/Cache/3943.pdf) - [#microsoft]
 * [Экзамен: Программирование 3 семестр](http://www.konspektov.net/exam/4819196709961728) - [#java #answers]

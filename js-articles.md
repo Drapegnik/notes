@@ -14,7 +14,8 @@
 
 * [ ] [Руководство по работе с Redux](https://habrahabr.ru/company/mailru/blog/303456/) - [#redux #toread]
 * [x] [С 0 до 1. Разбираемся с Redux](https://habrahabr.ru/post/269831/) - [#redux]
-  <!-- * [ ] []() - [# #toread] -->
+* [ ] [Redux modules and code-splitting](http://nicolasgallagher.com/redux-modules-and-code-splitting/) - [#redux #async #toread]
+    <!-- * [ ] []() - [# #toread] -->
 
 ## Webpack
 
