@@ -9,6 +9,7 @@
 * [`js-courses.md`](https://drapegnik.github.io/notes/js-courses)
 * [`js-libs.md`](https://drapegnik.github.io/notes/js-libs)
 * [`js-random.md`](https://drapegnik.github.io/notes/js-random)
+* [`css.md`](https://drapegnik.github.io/notes/css)
 * [`python.md`](https://drapegnik.github.io/notes/python)
 * [`ml.md`](https://drapegnik.github.io/notes/ml) - data science & machine learning sources
 * [`cv.md`](https://drapegnik.github.io/notes/cv) - computer vision sources
