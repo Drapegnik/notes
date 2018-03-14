@@ -12,3 +12,9 @@ git tag -d v2.5.4
 ```bash
 git shortlog -sne --no-merges
 ```
+
+* patch from uncommited changes:
+
+```bash
+git diff --cached > mypatch.patch # --cached for staged changes
+```
