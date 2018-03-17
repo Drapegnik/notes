@@ -33,3 +33,9 @@ git stash show -p stash@{2}
 git stash apply stash@{2}
 git stash drop stash@{2}
 ```
+
+* patch from uncommited changes:
+
+```bash
+git diff --cached > mypatch.patch # --cached for staged changes
+```
