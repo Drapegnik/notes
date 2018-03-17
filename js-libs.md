@@ -8,6 +8,7 @@
 * [react-powerplug](https://github.com/renatorib/react-powerplug) - Renderless Pluggable State Containers [#state #toggle #render-prop]
 * [react-perf-devtool](https://github.com/nitin42/react-perf-devtool) - A browser developer tool extension to inspect performance [#react #perf #tool #extension]
 * [react-app-rewired](https://github.com/timarney/react-app-rewired) - Override create-react-app webpack configs without ejecting [#cra #config #eject]
+* [reactions/component](https://github.com/reactions/component) - Declarative version of `React.Component` [#react #state #render-prop]
 
 # Redux
 
@@ -15,6 +16,11 @@
 * [retarget](https://github.com/tkh44/retarget) - selectors via targets [#state #selector]
 * [redux-bundler](https://github.com/HenrikJoreteg/redux-bundler) - add rules & structure for redux, reduce boilerplate [#redux #bundle #modules]
 * [ducks-modular-redux](https://github.com/erikras/ducks-modular-redux) - pack all redux staff into `ducks` [#redux #bundle #modules]
+* [rematch](https://github.com/rematch/rematch) - redux framework to reduce boilerplate [#redux]
+
+## Webpack
+
+* [preload-webpack-plugin](https://github.com/GoogleChromeLabs/preload-webpack-plugin) - for injecting `<link rel='preload|prefecth'>` - [#webpack #async #chunk #lazy-load]
 
 ## React Native
 

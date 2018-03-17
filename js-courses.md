@@ -16,6 +16,7 @@
 
 * [x] [Idiomatic Redux by Dan](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) - [#redux]
 * [ ] [Async React with Redux Saga](https://egghead.io/courses/async-react-with-redux-saga) - [#redux #redux-saga #towatch]
+* [ ] [Up and Running with redux-observable](https://egghead.io/courses/up-and-running-with-redux-observable?utm_content=bufferf70c2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - [#redux #observable #towatch]
   <!-- [ ] * []() - [# #towatch] -->
 
 ## Other
@@ -31,3 +32,7 @@
 * [ ] [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/) - [#graphql]
 * [Monster Lessons](https://monsterlessons.com/) - Практические видеоуроки для веб - разработчиков [#courses]
   <!-- [ ] * []() - [# #towatch] -->
+
+## Talks
+
+* [javascript-videos-ru-2018](https://github.com/hH39797J/javascript-videos-ru-2018#rs-conf-2018) - [#talks #ru]
