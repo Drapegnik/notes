@@ -1,5 +1,15 @@
 # Git notes
 
+* clean up branches that have been merged into master:
+
+```bash
+# for remote
+git-sweep cleanup
+# for local
+git remote add local $(pwd)
+git-sweep cleanup --origin=local
+```
+
 * remove tags [#git #tags #script]:
 
 ```bash

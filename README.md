@@ -1,6 +1,6 @@
 # notes
 
-:notebook: my notes, bookmarks, useful articles & courses
+:notebook: my notes, bookmarks, useful articles & courses [`git.io/mynotes`](https://git.io/mynotes)
 
 # toc
 
