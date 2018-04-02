@@ -22,3 +22,7 @@ npx bundlesize
 ```bash
 npx size-limit
 ```
+
+## Api
+
+* [`Intl`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl) - [#i18n #intl #native]

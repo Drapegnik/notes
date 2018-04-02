@@ -4,6 +4,7 @@
 
 * [ ] [JavaScript. The Core: 2nd Edition](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/) - [#js #toread #mustbe]
 * [ ] [ES6 In Depth: Destructuring](https://hacks.mozilla.org/2015/05/es6-in-depth-destructuring/) - [#es6 #toread]
+* [ ] [Algebraic JavaScript Specification (@fantasyland)](https://github.com/fantasyland/fantasy-land) - [#fp #patterns #toread]
 
 ## React
 
@@ -14,7 +15,7 @@
 
 * [ ] [Руководство по работе с Redux](https://habrahabr.ru/company/mailru/blog/303456/) - [#redux #toread]
 * [x] [С 0 до 1. Разбираемся с Redux](https://habrahabr.ru/post/269831/) - [#redux]
-* [ ] [Redux modules and code-splitting](http://nicolasgallagher.com/redux-modules-and-code-splitting/) - [#redux #async #toread]
+* [x] [Redux modules and code-splitting](http://nicolasgallagher.com/redux-modules-and-code-splitting/) - [#redux #async #toread]
     <!-- * [ ] []() - [# #toread] -->
 
 ## Webpack

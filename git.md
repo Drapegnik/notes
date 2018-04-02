@@ -49,3 +49,9 @@ git stash drop stash@{2}
 ```bash
 git diff --cached > mypatch.patch # --cached for staged changes
 ```
+
+* revert modified file:
+
+```bash
+git checkout -- index.js
+```

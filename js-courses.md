@@ -4,6 +4,8 @@
 
 * [x] [Understand JavaScript's `this` Keyword in Depth](https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth) - [#js #scope #this]
 * [x] [How to Write an Open Source JavaScript Library](https://egghead.io/courses/how-to-write-an-open-source-javascript-library) - [#oss #semantic #mocha #instanbul]
+* [ ] [Паттерны для масштабируемых JavaScript-приложений](http://largescalejs.ru/) - [#js #patterns #toread]
+* [ ] [Factory паттерн в Javascript](https://monsterlessons.com/project/lessons/factory-pattern-v-javascript) - [#js #patterns #factory #towatch]
 
 ## React
 
@@ -17,6 +19,7 @@
 * [x] [Idiomatic Redux by Dan](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) - [#redux]
 * [ ] [Async React with Redux Saga](https://egghead.io/courses/async-react-with-redux-saga) - [#redux #redux-saga #towatch]
 * [ ] [Up and Running with redux-observable](https://egghead.io/courses/up-and-running-with-redux-observable?utm_content=bufferf70c2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - [#redux #observable #towatch]
+
   <!-- [ ] * []() - [# #towatch] -->
 
 ## Other
