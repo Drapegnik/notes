@@ -26,8 +26,13 @@
 
 ## Node
 
-* [x] [Using Async/Await with Mocha, Express, and Mongoose](http://thecodebarbarian.com/using-async-await-with-mocha-express-and-mongoose.html) - [#async #await #mocha]
 * [ ] [Знай свой инструмент: Event Loop в libuv](https://habrahabr.ru/post/336498/.com) - [#node #event-loop #toread]
+* [x] [The 80/20 Guide to Async/Await in Node.js](http://thecodebarbarian.com/80-20-guide-to-async-await-in-node.js) - [#node #async #await]
+* [x] [Common Async/Await Design Patterns in Node.js](http://thecodebarbarian.com/common-async-await-design-patterns-in-node.js.html) - [#node #async #await #patterns]
+* [x] [The 80/20 Guide to Express Error Handling](http://thecodebarbarian.com/80-20-guide-to-express-error-handling.html) - [#node #express #error-handling #async #await #catch]
+* [x] [Using Async/Await with Mocha, Express, and Mongoose](http://thecodebarbarian.com/using-async-await-with-mocha-express-and-mongoose.html) - [#async #await #mocha]
+* [ ] [Using Ramda as a Dependency Injector](http://thecodebarbarian.com/using-ramda-as-a-dependency-injector) - [#node #ramda #fp #di #toread]
+* [ ] [Building REST APIs with Observables](http://thecodebarbarian.com/rest-apis-with-observables.html) - [#node #observable #rxjs #toread]
 
 ## Other
 
