@@ -44,13 +44,13 @@ git stash apply stash@{2}
 git stash drop stash@{2}
 ```
 
-* patch from uncommited changes:
+* patch from uncommited changes [#git #patch]:
 
 ```bash
 git diff --cached > mypatch.patch # --cached for staged changes
 ```
 
-* revert modified file:
+* revert modified file [#git #revert]:
 
 ```bash
 git checkout -- index.js

@@ -1,12 +1,6 @@
 # useful scripts
 
-* find unused files:
-
-```bash
-npx webpack --json | npx webpack-unused -s src
-```
-
-* checkout `env` vars:
+* checkout `env` vars: [#script]
 
 ```bash
 printenv | grep PATH

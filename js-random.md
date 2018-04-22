@@ -7,10 +7,10 @@
 
 ## Commands
 
-* check dead code with webpack [#webpack #script]:
+* check dead code with webpack [#webpack #bundle #stats #analyze]:
 
 ```bash
-npx webpack --json | npx webpack-unused src/
+npx webpack --json | npx webpack-unused -s src
 ```
 
 * measure bundle size [#webpack #bundle #size]:
@@ -21,6 +21,13 @@ npx bundlesize
 
 ```bash
 npx size-limit
+```
+
+* why this module in a bundle? [#webpack #bundle #stats #analyze]:
+
+```bash
+npx whybundled stats.json
+npx whybundled stats.json --by styled-components
 ```
 
 ## Api

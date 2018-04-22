@@ -1,7 +1,5 @@
 # JS libs
 
-## Common
-
 ## React
 
 * [react-circular-progressbar](https://github.com/iqnivek/react-circular-progressbar) - [#countdown #timer]
@@ -11,7 +9,7 @@
 * [reactions/component](https://github.com/reactions/component) - declarative version of `React.Component` [#react #state #render-prop]
 * [unstated](https://github.com/jamiebuilds/unstated) - easily share this state with other components in our tree [#state #render-prop]
 * [react-contextual](https://github.com/drcmda/react-contextual) - helper around `React@16` new context api [#context]
-* [react-fns](https://github.com/jaredpalmer/react-fns) - browser api into declarative `React Components` and `HoC` [#]
+* [react-fns](https://github.com/jaredpalmer/react-fns) - browser api into declarative `React Components` and `HoC` [#render-prop #browser #api]
 
 ## State management
 
@@ -20,8 +18,9 @@
 * [redux-bundler](https://github.com/HenrikJoreteg/redux-bundler) - add rules & structure for redux, reduce boilerplate [#redux #bundle #modules]
 * [ducks-modular-redux](https://github.com/erikras/ducks-modular-redux) - pack all redux staff into `ducks` [#redux #bundle #modules]
 * [rematch](https://github.com/rematch/rematch) - redux framework to reduce boilerplate [#redux #render-prop #browser-api]
+* [cerebral](https://github.com/cerebral/cerebral) - state and side effects management [#state]
 
-## Webpack
+## Webpack / Build
 
 * [preload-webpack-plugin](https://github.com/GoogleChromeLabs/preload-webpack-plugin) - for injecting `<link rel='preload|prefecth'>` - [#webpack #async #chunk #lazy-load]
 
@@ -33,9 +32,12 @@
 
 * [photon](https://github.com/connors/photon) - UI toolkit for building desktop apps with Electron. [#toolkit #electron]
 
+## Node.js
+
+* [oclif](https://github.com/oclif/oclif) - framework for building cli in node.js - [#cli #terminal]
+
 ## Other
 
 * [BOTTENDER](https://bottender.js.org/) - Make Bots in Your Way, Fast and Flexibly - [#js #slack #bots #telegram]
 * [GoJS Samples](https://gojs.net/latest/samples/index.html) - [#charts #gojs]
 * [driver](https://github.com/kamranahmedse/driver.js) - engine to drive the user's focus across the page - [#popup #vanilla]
-* [oclif](https://github.com/oclif/oclif) - framework for building cli in node.js - [#cli #terminal]
