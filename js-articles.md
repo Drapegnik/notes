@@ -36,6 +36,8 @@
 
 ## Other
 
+* [x] [LEARN HOW HTTP COOKIES WORK](https://flaviocopes.com/cookies) - [#cookie #guide]
+* [x] [A GUIDE TO JAVASCRIPT REGULAR EXPRESSIONS](https://flaviocopes.com/javascript-regular-expressions/) - [#regexp #guide]
+* [ ] [Regexps guide](https://developer.mozilla.org/ru/docs/Web/JavaScript/Guide/Regular_Expressions) - [#regexp #guide]
 * [ ] [Debugging JavaScript in Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/) - [#debug #chrome #toread]
-* [ ] [Regexps guide](https://developer.mozilla.org/ru/docs/Web/JavaScript/Guide/Regular_Expressions) - [#regexp]
 * [ ] [SSR with Redux and React-Router](https://www.codementor.io/mz026/server-side-rendering-with-redux-and-react-router-8s8en3o7p) - [#ssr]

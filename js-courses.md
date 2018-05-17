@@ -13,7 +13,7 @@
 * [x] [Advanced React Component Patterns](https://egghead.io/courses/advanced-react-component-patterns) - [#react #patterns]
 * [x] [Materials for advanced react patterns course](https://github.com/kentcdodds/advanced-react-patterns) - [#js #react #patterns]
 * [x] [Build a Blog with React and Markdown using Gatsby](https://egghead.io/courses/build-a-blog-with-react-and-markdown-using-gatsby?utm_source=drip&utm_medium=email&utm_campaign=eoy2017&utm_term=react&utm_content=react-gatsby) - [#gatsby #ssr #static]
-* [ ] [Build a Server-rendered ReactJS Application with Next.js](https://egghead.io/lessons/next-js-introducing-build-a-server-rendered-reactjs-application-with-next-js) - [#nextjs #ssr #lib #towatch]
+* [x] [Test React Components with Enzyme and Jest](https://egghead.io/lessons/react-test-redux-connect-components-with-enzyme) - [#testing #enzyme #jest]
   <!-- [ ] * []() - [# #towatch] -->
 
 ## Redux
@@ -21,6 +21,11 @@
 * [x] [Idiomatic Redux by Dan](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) - [#redux]
 * [ ] [Async React with Redux Saga](https://egghead.io/courses/async-react-with-redux-saga) - [#redux #redux-saga #towatch]
 * [ ] [Up and Running with redux-observable](https://egghead.io/courses/up-and-running-with-redux-observable?utm_content=bufferf70c2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - [#redux #observable #towatch]
+
+## Vue
+
+* [x] [Develop Basic Web Apps with Vue.js](https://egghead.io/courses/develop-basic-web-apps-with-vue-js) - [#vue]
+* [x] [Offline-First Progressive Web Apps (PWA) in Vue.js](https://egghead.io/courses/offline-first-progressive-web-apps-pwa-in-vue-js?utm_source=drip&utm_medium=email&utm_campaign=may2018&utm_term=vuejs&utm_content=offline-first-progressive-web-apps-pwa-in-vue-js) - [#vue #pwa]
 
   <!-- [ ] * []() - [# #towatch] -->
 
@@ -33,8 +38,10 @@
 * [ ] [Asynchronous Programming](https://egghead.io/courses/asynchronous-programming-the-end-of-the-loop) - [#async #observable #rxjs #towatch]
 * [ ] [Application State with Mobx-state-tree](https://egghead.io/courses/manage-application-state-with-mobx-state-tree) - [#mobx #towatch]
 * [ ] [Async/Await using TypeScript](https://egghead.io/courses/async-await-using-typescript?utm_source=drip&utm_medium=email&utm_content=async-await-using-typescript) - [#async #await #ts #towatch]
+* [x] [End to End testing with Cypress](https://egghead.io/courses/end-to-end-testing-with-cypress) - [#cypress #e2e #testing]
 * [ ] [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/) - [#graphql]
 * [Monster Lessons](https://monsterlessons.com/) - Практические видеоуроки для веб - разработчиков [#courses]
+* [ ] [Learn Bulma CSS](https://scrimba.com/g/gbulma) - [#builma #css]
   <!-- [ ] * []() - [# #towatch] -->
 
 ## Talks

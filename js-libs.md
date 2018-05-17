@@ -4,6 +4,7 @@
 
 * [react-circular-progressbar](https://github.com/iqnivek/react-circular-progressbar) - [#countdown #timer]
 * [react-powerplug](https://github.com/renatorib/react-powerplug) - Renderless Pluggable State Containers [#state #toggle #render-prop]
+* [react-adopt](https://github.com/pedronauck/react-adopt) - [#render-prop #compose]
 * [react-perf-devtool](https://github.com/nitin42/react-perf-devtool) - a browser developer tool extension to inspect performance [#react #perf #tool #extension]
 * [react-app-rewired](https://github.com/timarney/react-app-rewired) - override create-react-app webpack configs without ejecting [#cra #config #eject]
 * [reactions/component](https://github.com/reactions/component) - declarative version of `React.Component` [#react #state #render-prop]
@@ -19,6 +20,7 @@
 * [ducks-modular-redux](https://github.com/erikras/ducks-modular-redux) - pack all redux staff into `ducks` [#redux #bundle #modules]
 * [rematch](https://github.com/rematch/rematch) - redux framework to reduce boilerplate [#redux #render-prop #browser-api]
 * [cerebral](https://github.com/cerebral/cerebral) - state and side effects management [#state]
+* [meiosis](http://meiosis.js.org/) - state management pattern [#state #patterns]
 
 ## Webpack / Build
 
@@ -40,4 +42,6 @@
 
 * [BOTTENDER](https://bottender.js.org/) - Make Bots in Your Way, Fast and Flexibly - [#js #slack #bots #telegram]
 * [GoJS Samples](https://gojs.net/latest/samples/index.html) - [#charts #gojs]
-* [driver](https://github.com/kamranahmedse/driver.js) - engine to drive the user's focus across the page - [#popup #vanilla]
+* [driver](https://github.com/kamranahmedse/driver.js) - engine to drive the user's focus across the page [#popup #vanilla]
+* [uppy](https://github.com/transloadit/uppy) - file uploader [#file #uploader]
+* [ReLaXed](https://github.com/RelaxedJS/ReLaXed) - create pdf documents [#pdf #converter]

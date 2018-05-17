@@ -5,7 +5,8 @@
 * [ ] [Лучшие практики кэширования](http://prgssr.ru/development/luchshie-praktiki-keshirovaniya.html) - [#сache #toread]
 * [ ] [Создание архитектуры программы или как проектировать табуретку](https://habrahabr.ru/post/276593/) - [#toread #di #architecture]
 * [ ] [Microservices by Martin Fowler](https://habrahabr.ru/post/249183/) - [#toread #architecture #microservices]
-* [ ] [LEARN HOW HTTP COOKIES WORK](https://flaviocopes.com/cookies) - [#toread #cookie #guide]
+* [ ] [HOW HTTPS WORKS](https://howhttps.works/) - [#toread #https #guide]
+* [x] [keep a changelog](https://keepachangelog.com/en/1.0.0/) - [#changelog #guide]
 
 ## Functional
 
