@@ -16,6 +16,8 @@
 * [`bsu.md`](https://drapegnik.github.io/notes/bsu) - study notes
 * [`tools.md`](https://drapegnik.github.io/notes/tools)
 * [`git.md`](https://drapegnik.github.io/notes/git)
+* [`fp.md`](https://drapegnik.github.io/notes/fp) - functional programming (haskell) notes
+* [`bash.md`](https://drapegnik.github.io/notes/bash) - scripts, commands & etc.
 
 ## search
 
