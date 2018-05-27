@@ -14,16 +14,22 @@ printenv | grep PATH
 
 [#bash #tricks #cheat-sheet]
 
-![bash](http://res.cloudinary.com/dzsjwgjii/image/upload/v1527380485/bash.jpg)
+<p align="center">
+  <img alt="bash" src="http://res.cloudinary.com/dzsjwgjii/image/upload/v1527380485/bash.jpg"/>
+</p>  
 
 ## grep
 
 [#grep]
 
-![grep](http://res.cloudinary.com/dzsjwgjii/image/upload/v1527380485/grep.jpg)
+<p align="center">
+  <img alt="grep" src="http://res.cloudinary.com/dzsjwgjii/image/upload/v1527380485/grep.jpg"/>
+</p>  
 
 ## xargs
 
 [#xargs #pipe]
 
-![xargs](http://res.cloudinary.com/dzsjwgjii/image/upload/v1527380485/xargs.jpg)
+<p align="center">
+  <img alt="xargs" src="http://res.cloudinary.com/dzsjwgjii/image/upload/v1527380485/xargs.jpg"/>
+</p>
