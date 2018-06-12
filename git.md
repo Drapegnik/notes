@@ -1,5 +1,7 @@
 # Git notes
 
+* [git-change-date](https://github.com/bitriddler/git-change-date) - cli to change old commits author and committer dates - [#git #cli #rebase]
+
 * clean up branches that have been merged into master:
 
 ```bash
