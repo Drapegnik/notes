@@ -1,5 +1,9 @@
 # JS libs
 
+## Core
+
+- [licia](https://github.com/liriliri/licia) - huge number of useful and small js functions, modules & classes - [#utils #lodash]
+
 ## React
 
 - [react-circular-progressbar](https://github.com/iqnivek/react-circular-progressbar) - [#countdown #timer]
@@ -40,10 +44,10 @@
 
 - [photon](https://github.com/connors/photon) - UI toolkit for building desktop apps with Electron. [#toolkit #electron]
 
-## Command Line
+## Tools
 
 - [oclif](https://github.com/oclif/oclif) - framework for building cli in node.js - [#cli #terminal]
-- [maid](https://github.com/egoist/maid) - markdown driven task runner. - [#cli #scripts #task #run #md]
+- [maid](https://github.com/egoist/maid) - markdown driven task runner - [#cli #scripts #task #run #md]
 
 ## Other
 

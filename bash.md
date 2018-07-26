@@ -33,3 +33,13 @@ printenv | grep PATH
 <p align="center">
   <img alt="xargs" src="http://res.cloudinary.com/dzsjwgjii/image/upload/v1527380485/xargs.jpg"/>
 </p>
+
+## ssh
+
+copying public key on server using ssh
+
+[#ssh #remote #server]
+
+```bash
+cat ~/.ssh/id_rsa.pub | ssh username@remote_host "mkdir -p ~/.ssh && cat >> ~/.ssh/authorized_keys"
+```

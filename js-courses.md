@@ -22,6 +22,7 @@
 - [ ] [Async React with Redux Saga](https://egghead.io/courses/async-react-with-redux-saga) - [#redux #redux-saga #towatch]
 - [ ] [Up and Running with redux-observable](https://egghead.io/courses/up-and-running-with-redux-observable?utm_content=bufferf70c2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - [#redux #observable #towatch]
 - [ ] [Application State with Mobx-state-tree](https://egghead.io/courses/manage-application-state-with-mobx-state-tree) - [#mobx #towatch]
+- [ ] [Learn While You Poop – State](https://www.youtube.com/playlist?list=PLF8WgaD4xmjUwRQMfDtGjJ1_UhOVMTjR9) - [#state #redux #mobx] - [10/16]
 
 ## Vue
 

@@ -5,3 +5,5 @@
 - [JavaScript Object Explorer](https://sdras.github.io/object-explorer/) - [#js #tool #object]
 - [JavaScript Array Explorer](https://sdras.github.io/array-explorer/) - [#js #tool #array]
 - [Bit](https://bitsrc.io/) - platform for building & sharing components - [#js #components]
+- [randomuser](https://randomuser.me/) - [#generator #mocks #stub]
+- [cache-checker](https://www.giftofspeed.com/cache-checker/) - browser caching checker - [#cache #check]
