@@ -2,20 +2,20 @@
 
 ## Core
 
-- [licia](https://github.com/liriliri/licia) - huge number of useful and small js functions, modules & classes - [#utils #lodash]
+- [licia](https://github.com/liriliri/licia) - huge number of useful and small js functions, modules & classes [#utils #lodash]
 
 ## React
 
-- [react-circular-progressbar](https://github.com/iqnivek/react-circular-progressbar) - [#countdown #timer]
-- [react-powerplug](https://github.com/renatorib/react-powerplug) - Renderless Pluggable State Containers [#state #toggle #render-prop]
 - [react-adopt](https://github.com/pedronauck/react-adopt) - [#render-prop #compose]
 - [react-perf-devtool](https://github.com/nitin42/react-perf-devtool) - a browser developer tool extension to inspect performance [#react #perf #tool #extension]
-- [react-app-rewired](https://github.com/timarney/react-app-rewired) - override create-react-app webpack configs without ejecting [#cra #config #eject]
 - [reactions/component](https://github.com/reactions/component) - declarative version of `React.Component` [#react #state #render-prop]
-- [unstated](https://github.com/jamiebuilds/unstated) - easily share this state with other components in our tree [#state #render-prop]
 - [react-contextual](https://github.com/drcmda/react-contextual) - helper around `React@16` new context api [#context]
 - [react-fns](https://github.com/jaredpalmer/react-fns) - browser api into declarative `React Components` and `HoC` [#render-prop #browser #api]
-- [docz](https://github.com/pedronauck/docz) - easy to document your things [#docs #styleguide]
+
+## React UI
+
+- [react-circular-progressbar](https://github.com/iqnivek/react-circular-progressbar) - [#countdown #timer]
+- [ant-design](https://github.com/ant-design/ant-design) - [#ui #ui-kit]
 - [react-id-swiper](https://github.com/kidjp85/react-id-swiper) - swiper as a react component [#slider #carousel #swiper #ui]
 
 ## Functional
@@ -24,16 +24,19 @@
 
 ## State management
 
+- [unstated](https://github.com/jamiebuilds/unstated) - easily share this state with other components in our tree [#state #render-prop]
+- [react-powerplug](https://github.com/renatorib/react-powerplug) - Renderless Pluggable State Containers [#state #toggle #render-prop]
 - [immer](https://github.com/mweststrate/immer) - next immutable state by mutating the current one [#state #redux #immutable]
 - [retarget](https://github.com/tkh44/retarget) - selectors via targets [#state #selector]
 - [redux-bundler](https://github.com/HenrikJoreteg/redux-bundler) - add rules & structure for redux, reduce boilerplate [#redux #bundle #modules]
 - [ducks-modular-redux](https://github.com/erikras/ducks-modular-redux) - pack all redux staff into `ducks` [#redux #bundle #modules]
-- [rematch](https://github.com/rematch/rematch) - redux framework to reduce boilerplate [#redux #render-prop #browser-api]
+- [rematch](https://github.com/rematch/rematch) - redux framework to reduce boilerplate [#redux #render-prop #browser-api #lets-try]
 - [cerebral](https://github.com/cerebral/cerebral) - state and side effects management [#state]
 - [meiosis](http://meiosis.js.org/) - state management pattern [#state #patterns]
 
 ## Webpack / Build
 
+- [react-app-rewired](https://github.com/timarney/react-app-rewired) - override create-react-app webpack configs without ejecting [#cra #config #eject]
 - [preload-webpack-plugin](https://github.com/GoogleChromeLabs/preload-webpack-plugin) - for injecting `<link rel='preload|prefecth'>` - [#webpack #async #chunk #lazy-load]
 
 ## React Native
@@ -48,6 +51,11 @@
 
 - [oclif](https://github.com/oclif/oclif) - framework for building cli in node.js - [#cli #terminal]
 - [maid](https://github.com/egoist/maid) - markdown driven task runner - [#cli #scripts #task #run #md]
+
+## Docs
+
+- [docz](https://github.com/pedronauck/docz) - easy to document your things [#docs #styleguide]
+- [Docusaurus](https://github.com/facebook/Docusaurus) - open source documentation websites [#docs]
 
 ## Other
 

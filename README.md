@@ -5,18 +5,29 @@
 # toc
 
 - [`common.md`](https://drapegnik.github.io/notes/common) - common programming notes
+- [`fp.md`](https://drapegnik.github.io/notes/fp) - functional programming notes
+- [`tools.md`](https://drapegnik.github.io/notes/tools)
+- [`exercises/`](https://drapegnik.github.io/notes/exercises) - code snippets, examples
+
+### js / css / web
+
 - [`js-articles.md`](https://drapegnik.github.io/notes/js-articles)
 - [`js-courses.md`](https://drapegnik.github.io/notes/js-courses)
 - [`js-libs.md`](https://drapegnik.github.io/notes/js-libs)
 - [`js-random.md`](https://drapegnik.github.io/notes/js-random)
+- [`js-scripts.md`](https://drapegnik.github.io/notes/js-scripts)
 - [`css.md`](https://drapegnik.github.io/notes/css)
+- [`design.md`](https://drapegnik.github.io/notes/design)
+
+### misc
+
 - [`python.md`](https://drapegnik.github.io/notes/python)
-- [`ml.md`](https://drapegnik.github.io/notes/ml) - data science & machine learning sources
 - [`cv.md`](https://drapegnik.github.io/notes/cv) - computer vision sources
 - [`bsu.md`](https://drapegnik.github.io/notes/bsu) - study notes
-- [`tools.md`](https://drapegnik.github.io/notes/tools)
+
+## scripts
+
 - [`git.md`](https://drapegnik.github.io/notes/git)
-- [`fp.md`](https://drapegnik.github.io/notes/fp) - functional programming (haskell) notes
 - [`bash.md`](https://drapegnik.github.io/notes/bash) - scripts, commands & etc.
 
 ## search

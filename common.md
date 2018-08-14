@@ -15,8 +15,13 @@
 
 ## Functional
 
-- [ ][functional programming for javascript people](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504) - [#toread #fp]
-- [ ][an intro to functional programming concepts in javascript](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c) - [#toread #fp]
+- [ ] [functional programming for javascript people](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504) - [#toread #fp]
+- [ ] [an intro to functional programming concepts in javascript](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c) - [#toread #fp]
+- [ ] [Revisiting 'Monadic Parsing in Haskell'](https://vaibhavsagar.com/blog/2018/02/04/revisiting-monadic-parsing-haskell/) - [#toread #hashell #parser]
+
+## Papers
+
+- [ ] [Monadic Parsing in Haskell](http://www.cs.nott.ac.uk/~pszgmh/pearl.pdf) - [#toread #hashell #parser]
 
 ## Scale
 
