@@ -10,14 +10,14 @@ Exercises
 
 ```js
 // words :: String -> [String]
-const words = str => split(' ', str);
+const words = str => split(" ", str);
 ```
 
 #### solution
 
 ```js
 // words :: String -> [String]
-const words = split(' ');
+const words = split(" ");
 ```
 
 ### task 2
@@ -79,7 +79,7 @@ const max = reduce(keepHighest, -Infinity);
 // isLastInStock :: [Car] -> Boolean
 const isLastInStock = cars => {
   const lastCar = last(cars);
-  return prop('in_stock', lastCar);
+  return prop("in_stock", lastCar);
 };
 ```
 
@@ -88,7 +88,7 @@ const isLastInStock = cars => {
 ```js
 // isLastInStock :: [Car] -> Boolean
 const isLastInStock = compose(
-  prop('in_stock'),
+  prop("in_stock"),
   last
 );
 ```
@@ -117,7 +117,7 @@ const averageDollarValue = cars => {
 // averageDollarValue :: [Car] -> Int
 const averageDollarValue = compose(
   average,
-  map(prop('dollar_value'))
+  map(prop("dollar_value"))
 );
 ```
 
@@ -130,7 +130,7 @@ const averageDollarValue = compose(
 const fastestCar = cars => {
   const sorted = sortBy(car => car.horsepower, cars);
   const fastest = last(sorted);
-  return concat(fastest.name, ' is the fastest');
+  return concat(fastest.name, " is the fastest");
 };
 ```
 
@@ -139,10 +139,10 @@ const fastestCar = cars => {
 ```js
 // fastestCar :: [Car] -> String
 const fastestCar = compose(
-  flip(concat, ' is the fastest'),
-  prop('name'),
+  flip(concat, " is the fastest"),
+  prop("name"),
   last,
-  sortBy(prop('horsepower'))
+  sortBy(prop("horsepower"))
 );
 ```
 
@@ -164,7 +164,7 @@ const incrF = map(add(1));
 > Given the following User object:
 
 ```js
-const user = { id: 2, name: 'Albert', active: true };
+const user = { id: 2, name: "Albert", active: true };
 ```
 
 > Use `safeProp` and `head` to find the first initial of the user.
@@ -173,10 +173,9 @@ const user = { id: 2, name: 'Albert', active: true };
 
 ```js
 // initial :: User -> Maybe String
-// initial :: User -> Maybe String
 const initial = compose(
   map(head),
-  safeProp('name')
+  safeProp("name")
 );
 ```
 
@@ -187,13 +186,13 @@ const initial = compose(
 ```js
 // showWelcome :: User -> String
 const showWelcome = compose(
-  concat('Welcome '),
-  prop('name')
+  concat("Welcome "),
+  prop("name")
 );
 
 // checkActive :: User -> Either String User
 const checkActive = function checkActive(user) {
-  return user.active ? Either.of(user) : left('Your account is not active');
+  return user.active ? Either.of(user) : left("Your account is not active");
 };
 ```
 
@@ -206,6 +205,97 @@ const checkActive = function checkActive(user) {
 const eitherWelcome = compose(
   map(showWelcome),
   checkActive
+);
+```
+
+## [Chapter 09: Monadic Onions](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/ch09.html)
+
+### task 1
+
+> Considering a User object as follow:
+
+```js
+const user = {
+  id: 1,
+  name: "Albert",
+  address: {
+    street: {
+      number: 22,
+      name: "Walnut St"
+    }
+  }
+};
+```
+
+> Use `safeProp` and `map/join` or `chain` to safely get the street name when given a user
+
+#### solution
+
+```js
+// getStreetName :: User -> Maybe String
+const getStreetName = compose(
+  chain(safeProp("name")),
+  chain(safeProp("street")),
+  safeProp("address")
+);
+```
+
+### task 2
+
+> We now consider the following functions
+
+```js
+// getFile :: () -> IO String
+const getFile = () => IO.of("/home/mostly-adequate/ch9.md");
+
+// pureLog :: String -> IO ()
+const pureLog = str => new IO(() => console.log(str));
+```
+
+> Use `getFile` to get the filepath, remove the directory and keep only the basename, then purely log it. Hint: you may want to use `split` and `last` to obtain the basename from a filepath.
+
+#### solution
+
+```js
+// getBasename :: String -> String
+const getBasename = compose(
+  last,
+  split("/")
+);
+// logFilename :: IO ()
+const logFilename = compose(
+  chain(pureLog),
+  map(getBasename),
+  getFile
+);
+```
+
+### task 3
+
+> For this exercise, we consider helpers with the following signatures:
+
+```js
+// validateEmail :: Email -> Either String Email
+
+// addToMailingList :: Email -> IO([Email])
+
+// emailBlast :: [Email] -> IO ()
+```
+
+> Use `validateEmail`, `addToMailingList` and `emailBlast` to create a function which adds a new email to the mailing list if valid, and then notify the whole list.
+
+#### solution
+
+```js
+// joinMailingList :: Email -> Either String (IO ())
+const joinMailingList = compose(
+  map(
+    compose(
+      chain(emailBlast),
+      addToMailingList
+    )
+  ),
+  validateEmail
 );
 ```
 
