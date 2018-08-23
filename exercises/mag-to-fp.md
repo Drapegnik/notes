@@ -299,6 +299,64 @@ const joinMailingList = compose(
 );
 ```
 
+## [Chapter 10: Applicative Functors](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/ch10.html)
+
+### task 1
+
+> Write a function that adds two possibly null numbers together using `Maybe` and `ap`.
+
+#### solution
+
+```js
+// safeAdd :: Maybe Number -> Maybe Number -> Maybe Number
+const safeAdd = curry((a, b) =>
+  Maybe.of(add)
+    .ap(a)
+    .ap(b)
+);
+```
+
+### task 2
+
+> Rewrite `safeAdd` from task 1 to use `liftA2` instead of `ap`.
+
+#### solution
+
+```js
+// safeAdd :: Maybe Number -> Maybe Number -> Maybe Number
+const safeAdd = liftA2(add);
+```
+
+### task 3
+
+> For the next exercise, we consider the following helpers:
+
+```js
+const localStorage = {
+  player1: { id: 1, name: "Albert" },
+  player2: { id: 2, name: "Theresa" }
+};
+
+// getFromCache :: String -> IO User
+const getFromCache = x => new IO(() => localStorage[x]);
+
+// game :: User -> User -> String
+const game = curry((p1, p2) => `${p1.name} vs ${p2.name}`);
+```
+
+> Write an IO that gets both player1 and player2 from the cache and starts the game.
+
+#### solution
+
+```js
+// startGame :: IO String
+const startGame = liftA2(
+  game,
+  getFromCache("player1"),
+  getFromCache("player2")
+);
+```
+
 <!-- ## []()
 
 ### task
