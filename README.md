@@ -1,6 +1,6 @@
 # notes
 
-:notebook: my notes, bookmarks, useful articles & courses [`git.io/mynotes`](https://git.io/mynotes)
+📓 my notes, bookmarks, useful articles & courses [`git.io/mynotes`](https://git.io/mynotes)
 
 # toc
 
@@ -8,6 +8,7 @@
 - [`fp.md`](https://drapegnik.github.io/notes/fp) - functional programming notes
 - [`tools.md`](https://drapegnik.github.io/notes/tools)
 - [`exercises/`](https://drapegnik.github.io/notes/exercises) - code snippets, examples
+- [`misc/`](https://drapegnik.github.io/notes/misc)
 
 ### js / css / web
 
