@@ -7,3 +7,5 @@
 - [Bit](https://bitsrc.io/) - platform for building & sharing components - [#js #components]
 - [randomuser](https://randomuser.me/) - [#generator #mocks #stub]
 - [cache-checker](https://www.giftofspeed.com/cache-checker/) - browser caching checker - [#cache #check]
+- [bundlephobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle [#size #bundle]
+- [realfavicongenerator](https://realfavicongenerator.net/) - favicon generator. for real. [#favicon #generator]
