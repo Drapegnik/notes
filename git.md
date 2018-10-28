@@ -1,6 +1,11 @@
 # Git notes
 
+## links
+
+- [http://ohshitgit.com/](http://ohshitgit.com/) - when something went wrong - [#git #fail #tips]
 - [git-change-date](https://github.com/bitriddler/git-change-date) - cli to change old commits author and committer dates - [#git #cli #rebase]
+
+## snippets
 
 - clean up branches that have been merged into master:
 
@@ -15,7 +20,9 @@ git-sweep cleanup --origin=local
 - remove tags [#git #tags #script]:
 
 ```bash
+# remote
 git push --delete origin v2.5.4
+# local
 git tag -d v2.5.4
 ```
 

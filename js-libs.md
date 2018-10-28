@@ -17,6 +17,7 @@
 - [react-circular-progressbar](https://github.com/iqnivek/react-circular-progressbar) - [#countdown #timer]
 - [ant-design](https://github.com/ant-design/ant-design) - [#ui #ui-kit]
 - [react-id-swiper](https://github.com/kidjp85/react-id-swiper) - swiper as a react component [#slider #carousel #swiper #ui]
+- [microlink](https://microlink.js.org/) - convert your links into beautiful previews [#ui #links #preview #social]
 
 ## Functional
 
@@ -38,6 +39,7 @@
 
 - [react-app-rewired](https://github.com/timarney/react-app-rewired) - override create-react-app webpack configs without ejecting [#cra #config #eject]
 - [preload-webpack-plugin](https://github.com/GoogleChromeLabs/preload-webpack-plugin) - for injecting `<link rel='preload|prefecth'>` - [#webpack #async #chunk #lazy-load]
+- [customize-cra](https://github.com/arackaf/customize-cra) - override webpack configurations for create-react-app 2.0 - [#cra #webpack #eject #config]
 
 ## React Native
 
@@ -56,6 +58,11 @@
 
 - [docz](https://github.com/pedronauck/docz) - easy to document your things [#docs #styleguide]
 - [Docusaurus](https://github.com/facebook/Docusaurus) - open source documentation websites [#docs]
+
+## Git
+
+- [hubdb](https://github.com/mapbox/hubdb) - a github-powered database
+- [js-git](https://github.com/creationix/js-git) - js implementation of git
 
 ## Other
 

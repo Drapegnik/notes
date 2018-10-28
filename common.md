@@ -6,6 +6,7 @@
 - [ ] [HOW HTTPS WORKS](https://howhttps.works/) - [#toread #https #guide]
 - [x] [keep a changelog](https://keepachangelog.com/en/1.0.0/) - [#changelog #guide]
 - [x] [Good and Bad Technical Debt (and how TDD helps)](https://blog.crisp.se/2013/10/11/henrikkniberg/good-and-bad-technical-debt) - [#guide #refactor]
+- [x] [FASTER, BETTER, CHEAPER—THE ART OF MAKING SOFTWARE](https://jrsinclair.com/articles/2017/faster-better-cheaper-art-of-making-software/), [[ru]](https://medium.com/@vlad_poe/%D0%B1%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%B5-%D0%BB%D1%83%D1%87%D1%88%D0%B5-%D0%B4%D0%B5%D1%88%D0%B5%D0%B2%D0%BB%D0%B5-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2%D0%BE%D0%B9-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8-947e2afda06a) - [#awesome]
 
 ## Architecture
 

@@ -41,6 +41,7 @@
 
 - [`#toread`](https://github.com/Drapegnik/notes/search?q=toread)
 - [`#towatch`](https://github.com/Drapegnik/notes/search?q=towatch)
+- [`#guide`](https://github.com/Drapegnik/notes/search?q=guide)
 - [`#features`](https://github.com/Drapegnik/notes/search?q=features)
-- [`#mustbe`](https://github.com/Drapegnik/notes/search?q=mustbe)
+- [`#awesome`](https://github.com/Drapegnik/notes/search?q=awesome)
   <!-- * [`#`](https://github.com/Drapegnik/notes/search?q=) -->

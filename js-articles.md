@@ -2,10 +2,11 @@
 
 ## Common
 
-- [ ] [JavaScript. The Core: 2nd Edition](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/) - [#js #toread #mustbe]
+- [ ] [JavaScript. The Core: 2nd Edition](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/) - [#js #toread]
 - [ ] [ES6 In Depth: Destructuring](https://hacks.mozilla.org/2015/05/es6-in-depth-destructuring/) - [#es6 #toread]
 - [ ] [Algebraic JavaScript Specification (@fantasyland)](https://github.com/fantasyland/fantasy-land) - [#fp #patterns #toread]
 - [x] [One-Way Data Binding in VanillaJs](https://jack.ofspades.com/frameworkless-javascript-part-3-one-way-data-binding/) - [#proxy #es6 #vanilla]
+- [x] [Поле загрузки файлов, которое мы заслужили](https://habr.com/post/423035/) - [#file #upload #dnd #guide]
 
 ## React
 
