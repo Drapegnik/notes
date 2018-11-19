@@ -12,6 +12,7 @@
 
 - [ ] [Simple React Patterns](https://lucasmreis.github.io/blog/simple-react-patterns/) - Dealing With Side-Effects In React [#react #patterns #toread]
 - [ ] [Анализ производительности React 16 приложений с помощью инструментов разработчика Chrome](https://habrahabr.ru/company/ruvds/blog/343888/) - [#react #debug #chrome #performance #toread]
+- [x] [How to Use Storybook in a React Project](https://blog.bam.tech/developper-news/use-storybook-react-project) - [#react #storybook #snapshot #testing #styleguide]
 
 ## Redux
 
@@ -25,6 +26,7 @@
 - [ ] [`webpack@4` tutorial](https://dev.to/valentinogagliardi/webpack-4-tutorial-all-you-need-to-know-from-0-conf-to-production-mode-40bc) - [#webpack #toread]
 - [x] [Внутреннее устройство и оптимизация бандла webpack](https://habrahabr.ru/company/jugru/blog/342842/.com) - [#webpack #optimization #performance]
 - [x] [Keep webpack Fast: A Field Guide for Better Build Performance](https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1) - [#webpack #optimization #performance]
+- [ ] [An Annotated webpack 4 Config for Frontend Web Development](https://nystudio107.com/blog/an-annotated-webpack-4-config-for-frontend-web-development) - [#webpack #guide #config #toread]
 
 ## Node
 

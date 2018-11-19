@@ -11,3 +11,9 @@ npx plato -d report -r -e .eslintrc src
 ```bash
 npx code-notes --git-ignore .gitignore
 ```
+
+- `npm` check for updates
+
+```bash
+npx npm-check-updates '/storybook/' -u && npm install
+```

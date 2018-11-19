@@ -64,3 +64,19 @@ git diff --cached > mypatch.patch # --cached for staged changes
 ```bash
 git checkout -- index.js
 ```
+
+- delete commits from history [#git #revert #remove #rebase]:
+
+```bash
+git rebase --onto <branch name>~<first commit number to remove> <branch name>~<first commit to be kept> <branch name>
+```
+
+```bash
+git rebase --onto master~3 master~1 master
+```
+
+- delete all branches by pattern [#git #remove #branch]:
+
+```bash
+git branch --list 'temp*' | xargs git branch -D
+```
