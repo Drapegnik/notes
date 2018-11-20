@@ -17,3 +17,26 @@ npx code-notes --git-ignore .gitignore
 ```bash
 npx npm-check-updates '/storybook/' -u && npm install
 ```
+
+- check dead code with webpack [#webpack #bundle #stats #analyze]:
+
+```bash
+npx webpack --json | npx webpack-unused -s src | grep '.js'
+```
+
+- measure bundle size [#webpack #bundle #size]:
+
+```bash
+npx bundlesize
+```
+
+```bash
+npx size-limit
+```
+
+- why this module in a bundle? [#webpack #bundle #stats #analyze]:
+
+```bash
+npx whybundled stats.json
+npx whybundled stats.json --by styled-components
+```

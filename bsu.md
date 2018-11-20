@@ -16,5 +16,5 @@
 
 ## other
 
-- [ПОЛУЧЕНИЕ ЛИЦЕНЗИОННЫХ КЛЮЧЕЙ И АКТИВАЦИЯ ПО](https://fpmi.bsu.by/ImgFpmi/Cache/3943.pdf) - [#sost]
+- [ПОЛУЧЕНИЕ ЛИЦЕНЗИОННЫХ КЛЮЧЕЙ И АКТИВАЦИЯ ПО](https://fpmi.bsu.by/ImgFpmi/Cache/3943.pdf) - [#soft]
 - [Экзамен: Программирование 3 семестр](http://www.konspektov.net/exam/4819196709961728) - [#java #answers]
