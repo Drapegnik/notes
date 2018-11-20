@@ -485,3 +485,239 @@ func main() {
 	pic.ShowImage(m)
 }
 ```
+
+## [Equivalent Binary Trees](https://tour.golang.com/concurrency/7)
+
+```go
+type Tree struct {
+    Left  *Tree
+    Value int
+    Right *Tree
+}
+```
+
+1.  Implement the `Walk` function.
+2.  Test the `Walk` function.
+3.  Implement the `Same` function using `Walk` to determine whether `t1` and `t2` store the same values.
+4.  Test the `Same` function.
+
+### task
+
+```go
+package main
+
+import "golang.org/x/tour/tree"
+
+// Walk walks the tree t sending all values
+// from the tree to the channel ch.
+func Walk(t *tree.Tree, ch chan int)
+
+// Same determines whether the trees
+// t1 and t2 contain the same values.
+func Same(t1, t2 *tree.Tree) bool
+
+func main() {
+}
+```
+
+### solution
+
+```go
+package main
+
+import (
+	"fmt"
+	"golang.org/x/tour/tree"
+)
+
+func _Walk(t *tree.Tree, ch chan int) {
+	if t == nil {
+		return
+	}
+	_Walk(t.Left, ch)
+	ch <- t.Value
+	_Walk(t.Right, ch)
+}
+
+// Walk walks the tree t sending all values
+// from the tree to the channel ch.
+func Walk(t *tree.Tree, ch chan int) {
+	_Walk(t, ch)
+	close(ch)
+}
+
+// Same determines whether the trees
+// t1 and t2 contain the same values.
+func Same(t1, t2 *tree.Tree) bool {
+	ch1 := make(chan int)
+	ch2 := make(chan int)
+	go Walk(t1, ch1)
+	go Walk(t2, ch2)
+	for v1 := range ch1 {
+		v2 := <-ch2
+		if v1 != v2 {
+			return false
+		}
+	}
+	return true
+}
+
+func main() {
+	ch := make(chan int)
+	go Walk(tree.New(1), ch)
+
+	for v := range ch {
+		fmt.Println(v)
+	}
+
+	if Same(tree.New(1), tree.New(1)) {
+		fmt.Println("OK")
+	}
+	if !Same(tree.New(1), tree.New(2)) {
+		fmt.Println("OK")
+	}
+}
+```
+
+## [Web Crawler](https://tour.golang.com/concurrency/10)
+
+Modify the Crawl function to fetch URLs in parallel without fetching the same URL twice.
+
+### task
+
+```go
+package main
+
+import (
+	"fmt"
+)
+
+type Fetcher interface {
+	// Fetch returns the body of URL and
+	// a slice of URLs found on that page.
+	Fetch(url string) (body string, urls []string, err error)
+}
+
+// Crawl uses fetcher to recursively crawl
+// pages starting with url, to a maximum of depth.
+func Crawl(url string, depth int, fetcher Fetcher) {
+	// TODO: Fetch URLs in parallel.
+	// TODO: Don't fetch the same URL twice.
+	// This implementation doesn't do either:
+	if depth <= 0 {
+		return
+	}
+	body, urls, err := fetcher.Fetch(url)
+	if err != nil {
+		fmt.Println(err)
+		return
+	}
+	fmt.Printf("found: %s %q\n", url, body)
+	for _, u := range urls {
+		Crawl(u, depth-1, fetcher)
+	}
+	return
+}
+
+func main() {
+	Crawl("https://golang.org/", 4, fetcher)
+}
+
+// fakeFetcher is Fetcher that returns canned results.
+type fakeFetcher map[string]*fakeResult
+
+type fakeResult struct {
+	body string
+	urls []string
+}
+
+func (f fakeFetcher) Fetch(url string) (string, []string, error) {
+	if res, ok := f[url]; ok {
+		return res.body, res.urls, nil
+	}
+	return "", nil, fmt.Errorf("not found: %s", url)
+}
+
+// fetcher is a populated fakeFetcher.
+var fetcher = fakeFetcher{
+	"https://golang.org/": &fakeResult{
+		"The Go Programming Language",
+		[]string{
+			"https://golang.org/pkg/",
+			"https://golang.org/cmd/",
+		},
+	},
+	"https://golang.org/pkg/": &fakeResult{
+		"Packages",
+		[]string{
+			"https://golang.org/",
+			"https://golang.org/cmd/",
+			"https://golang.org/pkg/fmt/",
+			"https://golang.org/pkg/os/",
+		},
+	},
+	"https://golang.org/pkg/fmt/": &fakeResult{
+		"Package fmt",
+		[]string{
+			"https://golang.org/",
+			"https://golang.org/pkg/",
+		},
+	},
+	"https://golang.org/pkg/os/": &fakeResult{
+		"Package os",
+		[]string{
+			"https://golang.org/",
+			"https://golang.org/pkg/",
+		},
+	},
+}
+```
+
+### solution
+
+```go
+type SafeMap struct {
+	urls map[string]bool
+	mux  sync.Mutex
+}
+
+func (m *SafeMap) Save(key string) {
+	m.mux.Lock()
+	m.urls[key] = true
+	m.mux.Unlock()
+}
+
+func (m *SafeMap) Check(key string) bool {
+	m.mux.Lock()
+	defer m.mux.Unlock()
+	return m.urls[key]
+}
+
+// Crawl uses fetcher to recursively crawl
+// pages starting with url, to a maximum of depth.
+func Crawl(url string, depth int, fetcher Fetcher, store SafeMap) {
+	if depth <= 0 || store.Check(url) {
+		return
+	}
+
+	store.Save(url)
+
+	body, urls, err := fetcher.Fetch(url)
+	if err != nil {
+		fmt.Println(err)
+		return
+	}
+	fmt.Printf("found: %s %q\n", url, body)
+
+	for _, u := range urls {
+		go Crawl(u, depth-1, fetcher, store)
+	}
+	return
+}
+
+func main() {
+	store := SafeMap{urls: make(map[string]bool)}
+	go Crawl("https://golang.org/", 4, fetcher, store)
+	time.Sleep(time.Second)
+}
+```
