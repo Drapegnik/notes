@@ -15,7 +15,7 @@ npx code-notes --git-ignore .gitignore
 - `npm` check for updates
 
 ```bash
-npx npm-check-updates '/storybook/' -u && npm install
+npx npm-check-updates '/babel/' -a
 ```
 
 - check dead code with webpack [#webpack #bundle #stats #analyze]:
