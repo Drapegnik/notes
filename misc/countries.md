@@ -43,11 +43,18 @@
 - [x] 🇳🇱 Netherlands
   - [x] Amsterdam
   - [ ] Eindhoven ✈️
-- [x] 🇷🇺 Russia / Moscow [x3]
+- [x] <img src="https://res.cloudinary.com/dzsjwgjii/image/upload/v1545584840/trnc-flag.png" height="11rem" /> Northern Cyprus (_TRNC_)
+  - [x] Famagusta (_Mağusa_)
+  - [x] Kyrenia (_Girne_)
+  - [x] Nicosia (_Lefkoşa_)
+- [x] 🇷🇺 Russia / Moscow [x3] ✈️
 - [x] 🇸🇪 Sweden
   - [x] Malmö
   - [ ] _Stockholm_ 📅
-- [ ] 🇹🇷 _Turkey / Istanbul_ ✈️
+- [x] 🇹🇷 Turkey
+  - [x] Adana
+  - [x] Istanbul ✅ [✈️x2]
+  - [x] Izmir
 - [x] 🇺🇦 Ukraine
   - [x] Kiev
   - [x] Lviv [x2]
