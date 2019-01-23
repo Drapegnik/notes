@@ -20,3 +20,4 @@
 
 - [x] ["Атака мертвецов": мифы и реальность](https://warspot.ru/3632-ataka-mertvetsov-mify-i-realnost) - [#war #WWI]
 - [x] [Интерактивный путеводитель по системам голосования в политике и жизни](https://antoniokov.com/voting) - [#guide #voting]
+- [x] [МЕДУЗЫ И ЖОПЫ](http://sunandstuff.com/mandelbrot/about) - [#math #dataviz]

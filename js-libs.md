@@ -75,3 +75,4 @@
 - [driver](https://github.com/kamranahmedse/driver.js) - engine to drive the user's focus across the page [#popup #vanilla]
 - [uppy](https://github.com/transloadit/uppy) - file uploader [#file #uploader]
 - [ReLaXed](https://github.com/RelaxedJS/ReLaXed) - create pdf documents [#pdf #converter]
+- [choo](https://github.com/choojs/choo) - sturdy 4kb frontend framework [#ui #dom #minimal #framework #to-try]
