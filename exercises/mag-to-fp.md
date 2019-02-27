@@ -357,16 +357,162 @@ const startGame = liftA2(
 );
 ```
 
-<!-- ## []()
+## [Chapter 11: Transform Again, Naturally](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/ch11.html)
 
-### task
+### task 1
 
->
+> Write a natural transformation that converts `Either b a` to `Maybe a`
 
 ```js
+// eitherToMaybe :: Either b a -> Maybe a
+const eitherToMaybe = undefined;
 ```
 
 #### solution
 
 ```js
-``` -->
+// eitherToMaybe :: Either b a -> Maybe a
+const eitherToMaybe = either(nothing, Maybe.of);
+```
+
+### task 2
+
+```js
+// eitherToTask :: Either a b -> Task a b
+const eitherToTask = either(Task.rejected, Task.of);
+```
+
+> Using `eitherToTask`, simplify `findNameById` to remove the nested `Either`.
+
+```js
+// findNameById :: Number -> Task Error (Either Error User)
+const findNameById = compose(
+  map(map(prop("name"))),
+  findUserById
+);
+```
+
+#### solution
+
+```js
+const findNameById = compose(
+  map(prop("name")),
+  chain(eitherToTask),
+  findUserById
+);
+```
+
+### task 3
+
+```
+split :: String -> String -> [String]
+intercalate :: String -> [String] -> String
+```
+
+> Write the isomorphisms between String and [Char].
+
+```js
+// strToList :: String -> [Char]
+const strToList = undefined;
+
+// listToStr :: [Char] -> String
+const listToStr = undefined;
+```
+
+#### solution
+
+```js
+// strToList :: String -> [Char]
+const strToList = split("");
+
+// listToStr :: [Char] -> String
+const listToStr = intercalate("");
+```
+
+## [Chapter 12: Traversing the Stone](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/ch12.html)
+
+### task 1
+
+> Considering the following elements:
+
+```js
+// httpGet :: Route -> Task Error JSON
+
+// routes :: Map Route Route
+const routes = new Map({ "/": "/", "/about": "/about" });
+```
+
+> Use the traversable interface to change the type signature of `getJsons` to Map Route Route → Task Error (Map Route JSON)
+
+```js
+// getJsons :: Map Route Route -> Map Route (Task Error JSON)
+const getJsons = map(httpGet);
+```
+
+#### solution
+
+```js
+// getJsons :: Map Route Route -> Task Error (Map Route JSON)
+const getJsons = traverse(Task.of, httpGet);
+```
+
+### task 3
+
+> We now define the following validation function:
+
+```js
+// validate :: Player -> Either String Player
+const validate = player =>
+  player.name ? Either.of(player) : left("must have name");
+```
+
+> Using traversable, and the `validate` function, update `startGame` (and its signature) to only start the game if all players are valid
+
+```js
+// startGame :: [Player] -> [Either Error String]
+const startGame = compose(
+  map(always("game started!")),
+  map(validate)
+);
+```
+
+#### solution
+
+```js
+// startGame :: [Player] -> Either Error String
+const startGame = compose(
+  map(always("game started!")),
+  traverse(Either.of, validate)
+);
+```
+
+### task 3
+
+> Finally, we consider some file-system helpers:
+
+```
+// readfile :: String -> Task Error String
+// readdir :: String -> Task Error [String]
+```
+
+> Use traversable to rearrange and flatten the nested Tasks & Maybe
+
+```js
+// readFirst :: String -> Task Error (Task Error (Maybe String))
+const readFirst = compose(
+  map(map(readfile("utf-8"))),
+  map(safeHead),
+  readdir
+);
+```
+
+#### solution
+
+```js
+// readFirst :: String -> Task Error (Maybe String)
+const readFirst = compose(
+  chain(traverse(Task.of, readfile("utf-8"))),
+  map(safeHead),
+  readdir
+);
+```
