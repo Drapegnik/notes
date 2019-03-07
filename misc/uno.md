@@ -36,7 +36,14 @@ besides the number cards, there are several other cards that help mix up the gam
 - 🚫 **skip** - the next player is _skipped_
 - `(+2)` **draw 2** - the next player must draw **2 cards** and _lose a turn_
 - 🎨 **wild** - play this card to _change the color_ to be matched
-- `(+4)` **draw 4** - changes the _current color_ plus the next player must draw **4 cards** and _lose a turn_
+- `(+4)` **wild draw 4** - changes the _current color_ plus the next player must draw **4 cards** and _lose a turn_
+
+### scoring
+
+- when the game ends every player count points in his hand
+- number cards are the same value as the number on the card
+- **wild** cards - 50 points
+- not **wild** action cards - 20 points
 
 ## addons
 
@@ -52,11 +59,11 @@ if you draw a playable card, it will be played automatically
 
 ### challenge draw 4
 
-- to play `(+4)` **draw 4** card, you must have no other alternative cards to play (except 🎨 **wild** card)
+- to play `(+4)` **wild draw 4** card, you must have no other alternative cards to play (except 🎨 **wild** card)
 
-- if you think the player who played a **draw 4** on you _can play_ another card, you can _challenge this player_
+- if you think the player who played a **wild draw 4** on you _can play_ another card, you can _challenge this player_
 
-- if you are right, this player must **draw 2** cards
+- if you are right, this player must **wild draw 2** cards
 
 - otherwise, you'll draw **6 cards**
 
@@ -83,7 +90,7 @@ when anyone plays a `0`, everyone rotates hands in the direction of play
 
 - 🔁 **reverse** works like 🚫 **skip**
 - play 🚫 **skip**, and you may immediately **play another** card
-- if you play a `(+2)` **draw 2** or `(+4)` **draw 4** card, your opponent has to draw the number of cards required, and then play immediately resumes back on your turn
+- if you play a `(+2)` **draw 2** or `(+4)` **wild draw 4** card, your opponent has to draw the number of cards required, and then play immediately resumes back on your turn
 
 ### 4 players two-partner teams
 
