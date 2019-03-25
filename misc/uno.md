@@ -2,6 +2,8 @@
 
 🃏 custom uno rules
 
+> check out [`uno-ozby.pdf`](https://github.com/Drapegnik/notes/blob/master/misc/uno-ozby.pdf)
+
 ## classic rules
 
 ### setup
