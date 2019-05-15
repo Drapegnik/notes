@@ -6,3 +6,4 @@
 - [x] [F-СТРОКИ В PYTHON](https://shultais.education/blog/python-f-strings) - [#python #strings #formatting]
 - [ ] [Python: коллекции, часть 3/4](https://habrahabr.ru/post/319876/) - [#python #toread #features #collections]
   <!-- * []() - [# #python] -->
+- [x] [Пара вопросов для Python-задрота](http://vas3k.ru/blog/270/) - [#python #interview]

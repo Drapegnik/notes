@@ -1,5 +1,21 @@
 # Python scripts
 
+## create virtualenv
+
+```bash
+mkvirtualenv my_env
+```
+
+## hidden features
+
+- **Extended Unpacking**:
+
+```py
+# python 3.x
+x, *_, y = (1, 2, 3, 4, 5)
+# x = 1, y = 5
+```
+
 ## hidden stdlib methods
 
 - `textwrap`:
@@ -23,6 +39,13 @@ textwrap.indent(quote, prefix='> ')
 ```py
 string.capwords('Lorem Ipsum is simply dummy text')
 # 'Lorem Ipsum Is Simply Dummy Text'
+```
+
+- `str.rjust`:
+
+```py
+'2345'.rjust(16, '#')
+'############2345'
 ```
 
 - `fnmatch`:
