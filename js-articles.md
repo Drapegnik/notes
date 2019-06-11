@@ -23,6 +23,7 @@
 
 ## Webpack
 
+- [x] [Webpack — The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9) - [#webpack #guide]
 - [ ] [`webpack@4` tutorial](https://dev.to/valentinogagliardi/webpack-4-tutorial-all-you-need-to-know-from-0-conf-to-production-mode-40bc) - [#webpack #toread]
 - [x] [Внутреннее устройство и оптимизация бандла webpack](https://habrahabr.ru/company/jugru/blog/342842/.com) - [#webpack #optimization #performance]
 - [x] [Keep webpack Fast: A Field Guide for Better Build Performance](https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1) - [#webpack #optimization #performance]

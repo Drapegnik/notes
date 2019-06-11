@@ -13,6 +13,7 @@
 - [ ] [Создание архитектуры программы или как проектировать табуретку](https://habrahabr.ru/post/276593/) - [#toread #di #architecture]
 - [ ] [Microservices by Martin Fowler](https://habrahabr.ru/post/249183/) - [#toread #architecture #microservices]
 - [ ] [Awesome design patterns](https://github.com/DovAmir/awesome-design-patterns) - [#toread #patterns]
+- [ ] [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog) - [#toread #patterns]
 
 ## Functional
 

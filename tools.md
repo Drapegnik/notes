@@ -12,8 +12,11 @@
 - [bundlephobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle [#size #bundle]
 - [realfavicongenerator](https://realfavicongenerator.net/) - favicon generator. for real. [#favicon #generator]
 - [carbon](https://carbon.now.sh) - share beautiful images of your source code
+- [designpatternsgame](https://designpatternsgame.com/) - [#game $js #patterns]
+- [serviceworkies](https://serviceworkies.com/) - [#game #js #workers]
 
 ## cli
 
 - [pandoc](https://github.com/jgm/pandoc) - universal markup converter [#cli #md]
 - [asciinema](https://github.com/asciinema/asciinema) - terminal session recorder [#cli]
+- [XSStrike](https://github.com/s0md3v/XSStrike) - advanced XSS scanner [#xss #exploit #cli]

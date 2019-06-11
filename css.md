@@ -1,4 +1,4 @@
-# Css
+# CSS
 
 ## Articles
 
@@ -8,3 +8,11 @@
 
 - [x] [Learn the Best and Most Useful SCSS](https://egghead.io/courses/learn-the-best-and-most-useful-scss) - [#scss #sass]
 - [x] [Source code to Best and Most Useful SCSS](https://github.com/Pickra/SassyEgghead) - [#scss #sass]
+
+## Tools
+
+- [Flexulator](https://www.flexulator.com/) - flexbox space distribution calculator [#css #flex]
+
+## Packages
+
+- [Ikonate](https://www.ikonate.com/) - fully customisable & accessible vector icons [#svg #icons]

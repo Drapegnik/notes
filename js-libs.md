@@ -18,6 +18,8 @@
 - [ant-design](https://github.com/ant-design/ant-design) - [#ui #ui-kit]
 - [react-id-swiper](https://github.com/kidjp85/react-id-swiper) - swiper as a react component [#slider #carousel #swiper #ui]
 - [microlink](https://microlink.js.org/) - convert your links into beautiful previews [#ui #links #preview #social]
+- [ink](https://github.com/vadimdemedes/ink) - react for interactive command-line apps [#react #cli #ui]
+- [react-fullpage](https://github.com/alvarotrigo/react-fullpage) - create fullscreen scrolling websites [#react #ui #scrolling #landing]
 
 ## Functional
 
@@ -40,6 +42,7 @@
 - [react-app-rewired](https://github.com/timarney/react-app-rewired) - override create-react-app webpack configs without ejecting [#cra #config #eject]
 - [preload-webpack-plugin](https://github.com/GoogleChromeLabs/preload-webpack-plugin) - for injecting `<link rel='preload|prefecth'>` - [#webpack #async #chunk #lazy-load]
 - [customize-cra](https://github.com/arackaf/customize-cra) - override webpack configurations for create-react-app 2.0 - [#cra #webpack #eject #config]
+- [packtracker](https://github.com/packtracker) - check webpack bundle size for pull request [#webpack #check]
 
 ## Node
 
