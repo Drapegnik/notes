@@ -32,17 +32,29 @@
 
 ## EUROPE
 
+- [x] 🇧🇪 Belgium / Brussels
+- [x] 🇧🇦 Bosnia & Herzegovina
+  - [x] Mostar 🕑
+  - [x] Čapljina 🕑
 - [x] 🇧🇬 Bulgaria / Sozopol [x2]
+- [x] 🇭🇷 Croatia
+  - [x] Dubrovnik
+  - [x] Hvar
+  - [x] Ploče
+  - [x] Split
+  - [x] Ston
+  - [x] Zadar 🕑 ✈️
 - [x] 🇨🇾 Cyprus
   - [x] Larnaca
   - [x] Paphos
+- [x] 🇩🇪 Germany / Berlin
 - [x] 🇩🇰 Denmark / Copenhagen
 - [x] 🇱🇻 Latvia
   - [x] Jūrmala 🕑
   - [x] Riga
 - [x] 🇱🇹 Lithuania
-  - [ ] _Kaunas_ 🕑 [✈️x2]
-  - [x] Vilnius [✅x2], [✈️x3]
+  - [x] _Kaunas_ 🕑 [✈️x2]
+  - [x] Vilnius [✅x2], [✈️x5]
 - [x] 🇳🇱 Netherlands
   - [x] Amsterdam
   - [ ] Eindhoven ✈️
@@ -59,7 +71,7 @@
   - [x] Istanbul ✅ [✈️x3]
   - [x] Izmir
 - [x] 🇺🇦 Ukraine
-  - [x] Kiev
+  - [x] Kiev ✅ [✈️x2]
   - [x] Lviv [x2]
 
-> Total Count - `15`
+> Total Count - `19`
