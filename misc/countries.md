@@ -17,6 +17,10 @@
 - [x] 🇪🇬 Egypt
   - [x] Hurghada [x2] `africa`
   - [x] Sharm El Sheikh [x8] `asia`
+- [x] 🇲🇾 Malaysia
+  - [x] Kuala Lumpur
+  - [x] Langkawi
+- [x] 🇸🇬 Singapore
 
 ## NORTH AMERICA
 
@@ -31,7 +35,6 @@
 - [x] 🇧🇬 Bulgaria / Sozopol [x2]
 - [x] 🇨🇾 Cyprus
   - [x] Larnaca
-  - [ ] _Limassol_ 🚍
   - [x] Paphos
 - [x] 🇩🇰 Denmark / Copenhagen
 - [x] 🇱🇻 Latvia
@@ -39,7 +42,7 @@
   - [x] Riga
 - [x] 🇱🇹 Lithuania
   - [ ] _Kaunas_ 🕑 [✈️x2]
-  - [x] Vilnius [x2] ✈️
+  - [x] Vilnius [✅x2], [✈️x3]
 - [x] 🇳🇱 Netherlands
   - [x] Amsterdam
   - [ ] Eindhoven ✈️
@@ -50,13 +53,13 @@
 - [x] 🇷🇺 Russia / Moscow [x3] ✈️
 - [x] 🇸🇪 Sweden
   - [x] Malmö
-  - [ ] _Stockholm_ 📅
+  - [x] Stockholm
 - [x] 🇹🇷 Turkey
   - [x] Adana
-  - [x] Istanbul ✅ [✈️x2]
+  - [x] Istanbul ✅ [✈️x3]
   - [x] Izmir
 - [x] 🇺🇦 Ukraine
   - [x] Kiev
   - [x] Lviv [x2]
 
-> Total Count - `13`
+> Total Count - `15`
