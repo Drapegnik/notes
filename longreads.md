@@ -16,6 +16,10 @@
 - [x] [Why Procrastinators Procrastinate](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html) [[ru](https://habr.com/post/298192)] - [#life #time-management #awesome]
 - [x] [The Marriage Decision: Everything Forever or Nothing Ever Again](https://waitbutwhy.com/2016/09/marriage-decision.html) - [#life #relations]
 
+## history
+
+- [ ] [If Sapiens were a blog post](https://neilkakkar.com/sapiens.html) - [#history #books]
+
 ## chore
 
 - [x] ["Атака мертвецов": мифы и реальность](https://warspot.ru/3632-ataka-mertvetsov-mify-i-realnost) - [#war #WWI]

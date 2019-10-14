@@ -7,6 +7,9 @@
 - [x] [keep a changelog](https://keepachangelog.com/en/1.0.0/) - [#changelog #guide]
 - [x] [Good and Bad Technical Debt (and how TDD helps)](https://blog.crisp.se/2013/10/11/henrikkniberg/good-and-bad-technical-debt) - [#guide #refactor]
 - [x] [FASTER, BETTER, CHEAPER—THE ART OF MAKING SOFTWARE](https://jrsinclair.com/articles/2017/faster-better-cheaper-art-of-making-software/), [[ru]](https://medium.com/@vlad_poe/быстрее-лучше-дешевле-искусство-продуктовой-разработки-947e2afda06a) - [#awesome]
+- [ ] [Essential Image Optimization](https://images.guide/) [#book #images #optimization]
+- [ ] [Caching best practices & max-age gotchas](https://jakearchibald.com/2016/caching-best-practices/) [#cache #guide #toread]
+- [x] [Краткий гайд о том, как нанимать нормальных людей](https://vas3k.ru/inside/46/) [#guide #hr]
 
 ## Architecture
 

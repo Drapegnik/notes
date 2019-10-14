@@ -16,3 +16,5 @@
 ## Packages
 
 - [Ikonate](https://www.ikonate.com/) - fully customisable & accessible vector icons [#svg #icons]
+- [streamlineicons](https://streamlineicons.com/ux/) - 3,000 vector illustrations [#svg #icons]
+- [placeholder-loading](https://github.com/zalog/placeholder-loading) - css only, content placeholder loading animation [#css #loading #placeholder]

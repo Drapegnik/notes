@@ -13,6 +13,7 @@
 - [ ] [Simple React Patterns](https://lucasmreis.github.io/blog/simple-react-patterns/) - Dealing With Side-Effects In React [#react #patterns #toread]
 - [ ] [Анализ производительности React 16 приложений с помощью инструментов разработчика Chrome](https://habrahabr.ru/company/ruvds/blog/343888/) - [#react #debug #chrome #performance #toread]
 - [x] [How to Use Storybook in a React Project](https://blog.bam.tech/developper-news/use-storybook-react-project) - [#react #storybook #snapshot #testing #styleguide]
+- [x] [Application State Management with React in 2k19](https://kentcdodds.com/blog/application-state-management-with-react) - [#react #state #context #hooks]
 
 ## Redux
 

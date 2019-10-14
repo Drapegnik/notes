@@ -14,6 +14,7 @@
 - [carbon](https://carbon.now.sh) - share beautiful images of your source code
 - [designpatternsgame](https://designpatternsgame.com/) - [#game $js #patterns]
 - [serviceworkies](https://serviceworkies.com/) - [#game #js #workers]
+- [performancebudget](http://www.performancebudget.io/) - calculate a performance budget for your site [#performance #js]
 
 ## cli
 
