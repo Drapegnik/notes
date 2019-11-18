@@ -15,6 +15,10 @@
 - [designpatternsgame](https://designpatternsgame.com/) - [#game $js #patterns]
 - [serviceworkies](https://serviceworkies.com/) - [#game #js #workers]
 - [performancebudget](http://www.performancebudget.io/) - calculate a performance budget for your site [#performance #js]
+- [snippet generator](https://snippet-generator.app) [#atom #snippets #generator]
+- [joe schmoe](https://joeschmoe.io) - an illustrated avatar collection for
+  developers and designers - [#api #avatars]
+
 
 ## cli
 

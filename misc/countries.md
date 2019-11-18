@@ -49,6 +49,7 @@
   - [x] Paphos
 - [x] 🇩🇪 Germany / Berlin
 - [x] 🇩🇰 Denmark / Copenhagen
+- [x] 🇫🇮 Finland / Helsinki
 - [x] 🇱🇻 Latvia
   - [x] Jūrmala 🕑
   - [x] Riga
@@ -62,16 +63,16 @@
   - [x] Famagusta (_Mağusa_)
   - [x] Kyrenia (_Girne_)
   - [x] Nicosia (_Lefkoşa_)
-- [x] 🇷🇺 Russia / Moscow [x3] ✈️
+- [x] 🇷🇺 Russia / Moscow [x4] ✈️
 - [x] 🇸🇪 Sweden
   - [x] Malmö
   - [x] Stockholm
 - [x] 🇹🇷 Turkey
   - [x] Adana
-  - [x] Istanbul ✅ [✈️x3]
+  - [x] Istanbul ✅ [✈️x4]
   - [x] Izmir
 - [x] 🇺🇦 Ukraine
   - [x] Kiev ✅ [✈️x2]
   - [x] Lviv [x2]
 
-> Total Count - `19`
+> Total Count - `20`
