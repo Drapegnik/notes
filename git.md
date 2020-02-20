@@ -4,6 +4,7 @@
 
 - [http://ohshitgit.com/](http://ohshitgit.com/) - when something went wrong - [#git #fail #tips]
 - [git-change-date](https://github.com/bitriddler/git-change-date) - cli to change old commits author and committer dates - [#git #cli #rebase]
+- [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - a guide about what to do when things go wrong [#git #cheat-sheet #guide]
 
 ## snippets
 
