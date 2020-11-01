@@ -15,3 +15,5 @@
 - [SLAM for Dummies ](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-412j-cognitive-robotics-spring-2005/projects/1aslam_blas_repo.pdf) - [#slam]
 - [Real-time Simultaneous Localization and Mapping](http://www.imavs.org/papers/2016/237_IMAV2016_Proceedings.pdf) - [#slam]
 - [Benchmark and Simulator for UAV Tracking](https://www.researchgate.net/publication/308278377_A_Benchmark_and_Simulator_for_UAV_Tracking) - [#uav]
+
+- [Видеозвонки с виртуальным фоном и опенсорсные инструменты](https://habr.com/ru/company/ruvds/blog/498458) - [#zoom #virtual-bg #diy #camera]

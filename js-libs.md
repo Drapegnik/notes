@@ -1,8 +1,11 @@
 # JS libs
 
+- [tooling.js.org](https://tooling.js.org) - JavaScript and TypeScript tooling overview
+
 ## Core
 
 - [licia](https://github.com/liriliri/licia) - huge number of useful and small js functions, modules & classes [#utils #lodash]
+- [type-fest](https://github.com/sindresorhus/type-fest) - a collection of essential TypeScript types [#ts #tools #helpers]
 
 ## React
 

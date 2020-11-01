@@ -12,6 +12,8 @@
 - [serviceworkies](https://serviceworkies.com/) - [#game #js #workers]
 - [joe schmoe](https://joeschmoe.io) - an illustrated avatar collection for
   developers and designers - [#api #avatars]
+- [explainshell](https://explainshell.com/) - [#bash #shell #cli #help #tool]
+- [excalidraw](https://t.co/kg9ojHw8ya) - virtual whiteboard for sketching hand-drawn like diagramsm [#draw #plot #tool #paint #sketch]
 
 ## validators
 
@@ -20,6 +22,7 @@
 - [cache-checker](https://www.giftofspeed.com/cache-checker/) - browser caching checker - [#cache #check]
 - [bundlephobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle [#size #bundle]
 - [performancebudget](http://www.performancebudget.io/) - calculate a performance budget for your site [#performance #js]
+- [pr-cy](https://pr-cy.ru/) - SEO audit & site monitoring [#seo #audit #check]
 
 ## generators
 - [snippet generator](https://snippet-generator.app) [#atom #snippets #generator]
