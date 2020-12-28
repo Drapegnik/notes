@@ -13,7 +13,7 @@
 - [x] [Advanced React Component Patterns](https://egghead.io/courses/advanced-react-component-patterns) - [#react #patterns]
 - [x] [Materials for advanced react patterns course](https://github.com/kentcdodds/advanced-react-patterns) - [#js #react #patterns]
 - [x] [Build a Blog with React and Markdown using Gatsby](https://egghead.io/courses/build-a-blog-with-react-and-markdown-using-gatsby?utm_source=drip&utm_medium=email&utm_campaign=eoy2017&utm_term=react&utm_content=react-gatsby) - [#gatsby #ssr #static]
-  <!-- [ ] * []() - [# #towatch] -->
+<!-- [ ] * []() - [# #towatch] -->
 
 ## State management
 
@@ -29,7 +29,7 @@
 - [x] [Develop Basic Web Apps with Vue.js](https://egghead.io/courses/develop-basic-web-apps-with-vue-js) - [#vue]
 - [x] [Offline-First Progressive Web Apps (PWA) in Vue.js](https://egghead.io/courses/offline-first-progressive-web-apps-pwa-in-vue-js?utm_source=drip&utm_medium=email&utm_campaign=may2018&utm_term=vuejs&utm_content=offline-first-progressive-web-apps-pwa-in-vue-js) - [#vue #pwa]
 
-  <!-- [ ] * []() - [# #towatch] -->
+<!-- [ ] * []() - [# #towatch] -->
 
 ## Testing
 
@@ -44,10 +44,9 @@
 - [ ] [Asynchronous Programming](https://egghead.io/courses/asynchronous-programming-the-end-of-the-loop) - [#async #observable #rxjs #towatch]
 - [ ] [Async/Await using TypeScript](https://egghead.io/courses/async-await-using-typescript?utm_source=drip&utm_medium=email&utm_content=async-await-using-typescript) - [#async #await #ts #towatch]
 - [ ] [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/) - [#graphql]
-- [Monster Lessons](https://monsterlessons.com/) - Практические видеоуроки для веб - разработчиков [#courses]
 - [ ] [Learn Bulma CSS](https://scrimba.com/g/gbulma) - [#builma #css]
 - [ ] [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) - [#fp #towatch]
-  <!-- * [ ] []() - [# #towatch] -->
+<!-- * [ ] []() - [# #towatch] -->
 
 ## Talks
 

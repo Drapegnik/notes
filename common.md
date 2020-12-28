@@ -14,9 +14,10 @@
 ## Architecture
 
 - [ ] [Создание архитектуры программы или как проектировать табуретку](https://habrahabr.ru/post/276593/) - [#toread #di #architecture]
-- [ ] [Microservices by Martin Fowler](https://habrahabr.ru/post/249183/) - [#toread #architecture #microservices]
+- [x] [Microservices by Martin Fowler](https://habrahabr.ru/post/249183/) - [#toread #architecture #microservices]
 - [ ] [Awesome design patterns](https://github.com/DovAmir/awesome-design-patterns) - [#toread #patterns]
 - [ ] [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog) - [#toread #patterns]
+- [x] [What is a state machine?](https://statecharts.github.io/what-is-a-state-machine.html) - [#state #machine #finite-state]
 
 ## Functional
 

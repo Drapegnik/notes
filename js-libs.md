@@ -9,10 +9,7 @@
 
 ## React
 
-- [react-adopt](https://github.com/pedronauck/react-adopt) - [#render-prop #compose]
 - [react-perf-devtool](https://github.com/nitin42/react-perf-devtool) - a browser developer tool extension to inspect performance [#react #perf #tool #extension]
-- [reactions/component](https://github.com/reactions/component) - declarative version of `React.Component` [#react #state #render-prop]
-- [react-contextual](https://github.com/drcmda/react-contextual) - helper around `React@16` new context api [#context]
 - [react-fns](https://github.com/jaredpalmer/react-fns) - browser api into declarative `React Components` and `HoC` [#render-prop #browser #api]
 
 ## React UI

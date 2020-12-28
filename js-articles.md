@@ -13,22 +13,12 @@
 - [ ] [Simple React Patterns](https://lucasmreis.github.io/blog/simple-react-patterns/) - Dealing With Side-Effects In React [#react #patterns #toread]
 - [ ] [Анализ производительности React 16 приложений с помощью инструментов разработчика Chrome](https://habrahabr.ru/company/ruvds/blog/343888/) - [#react #debug #chrome #performance #toread]
 - [x] [How to Use Storybook in a React Project](https://blog.bam.tech/developper-news/use-storybook-react-project) - [#react #storybook #snapshot #testing #styleguide]
-- [x] [Application State Management with React in 2k19](https://kentcdodds.com/blog/application-state-management-with-react) - [#react #state #context #hooks]
 
-## Redux
+## State management
 
-- [ ] [Руководство по работе с Redux](https://habrahabr.ru/company/mailru/blog/303456/) - [#redux #toread]
-- [x] [С 0 до 1. Разбираемся с Redux](https://habrahabr.ru/post/269831/) - [#redux]
-- [x] [Redux modules and code-splitting](http://nicolasgallagher.com/redux-modules-and-code-splitting/) - [#redux #async #toread]
-    <!-- * [ ] []() - [# #toread] -->
-
-## Webpack
-
-- [x] [Webpack — The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9) - [#webpack #guide]
-- [ ] [`webpack@4` tutorial](https://dev.to/valentinogagliardi/webpack-4-tutorial-all-you-need-to-know-from-0-conf-to-production-mode-40bc) - [#webpack #toread]
-- [x] [Внутреннее устройство и оптимизация бандла webpack](https://habrahabr.ru/company/jugru/blog/342842/.com) - [#webpack #optimization #performance]
-- [x] [Keep webpack Fast: A Field Guide for Better Build Performance](https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1) - [#webpack #optimization #performance]
-- [ ] [An Annotated webpack 4 Config for Frontend Web Development](https://nystudio107.com/blog/an-annotated-webpack-4-config-for-frontend-web-development) - [#webpack #guide #config #toread]
+- [x] [Application State Management with React](https://kentcdodds.com/blog/application-state-management-with-react) - [#react #state #context #hooks]
+- [x] [How to use React Context effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively) - [#react #state #context #hooks]
+- [x] [Infinitely Better UIs with Finite Automata](http://slides.com/davidkhourshid/finite-state-machines) - [#state #machine #finite-state]
 
 ## Node
 
@@ -39,6 +29,7 @@
 - [x] [Using Async/Await with Mocha, Express, and Mongoose](http://thecodebarbarian.com/using-async-await-with-mocha-express-and-mongoose.html) - [#async #await #mocha]
 - [ ] [Using Ramda as a Dependency Injector](http://thecodebarbarian.com/using-ramda-as-a-dependency-injector) - [#node #ramda #fp #di #toread]
 - [ ] [Building REST APIs with Observables](http://thecodebarbarian.com/rest-apis-with-observables.html) - [#node #observable #rxjs #toread]
+- [x] [Node.js Streams: Everything you need to know](https://www.freecodecamp.org/news/node-js-streams-everything-you-need-to-know-c9141306be93/) - [#node #streams]
 
 ## Other
 
@@ -46,4 +37,17 @@
 - [x] [A GUIDE TO JAVASCRIPT REGULAR EXPRESSIONS](https://flaviocopes.com/javascript-regular-expressions/) - [#regexp #guide]
 - [ ] [Regexps guide](https://developer.mozilla.org/ru/docs/Web/JavaScript/Guide/Regular_Expressions) - [#regexp #guide]
 - [ ] [Debugging JavaScript in Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/) - [#debug #chrome #toread]
-- [ ] [SSR with Redux and React-Router](https://www.codementor.io/mz026/server-side-rendering-with-redux-and-react-router-8s8en3o7p) - [#ssr]
+
+## Archive
+
+### Redux
+
+- [x] [С 0 до 1. Разбираемся с Redux](https://habrahabr.ru/post/269831/) - [#redux]
+- [x] [Redux modules and code-splitting](http://nicolasgallagher.com/redux-modules-and-code-splitting/) - [#redux #async #toread]
+<!-- * [ ] []() - [# #toread] -->
+
+### Webpack
+
+- [x] [Webpack — The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9) - [#webpack #guide]
+- [x] [Внутреннее устройство и оптимизация бандла webpack](https://habrahabr.ru/company/jugru/blog/342842/.com) - [#webpack #optimization #performance]
+- [x] [Keep webpack Fast: A Field Guide for Better Build Performance](https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1) - [#webpack #optimization #performance]
