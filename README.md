@@ -6,6 +6,7 @@
 
 - [`common.md`](https://drapegnik.github.io/notes/common) - common programming notes
 - [`fp.md`](https://drapegnik.github.io/notes/fp) - functional programming notes
+- [`macos.md`](https://drapegnik.github.io/notes/macos)
 - [`tools.md`](https://drapegnik.github.io/notes/tools)
 - [`longreads.md`](https://drapegnik.github.io/notes/longreads) - great long-read articles
 - [`exercises/`](https://drapegnik.github.io/notes/exercises) - code snippets, examples

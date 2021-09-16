@@ -13,6 +13,9 @@
 - [ ] [Simple React Patterns](https://lucasmreis.github.io/blog/simple-react-patterns/) - Dealing With Side-Effects In React [#react #patterns #toread]
 - [ ] [Анализ производительности React 16 приложений с помощью инструментов разработчика Chrome](https://habrahabr.ru/company/ruvds/blog/343888/) - [#react #debug #chrome #performance #toread]
 - [x] [How to Use Storybook in a React Project](https://blog.bam.tech/developper-news/use-storybook-react-project) - [#react #storybook #snapshot #testing #styleguide]
+- [x] [Where to put state scheme](https://kentcdodds.com/static/f14c2d3af9a01a178dd70ab1e2449180/a6d66/where-to-put-state.png) - [#react #state #context]
+- [x] [Myths about useEffect](https://epicreact.dev/myths-about-useeffect/) - [#react #hooks #guide]
+- [x] [React composition example](https://epicreact.dev/one-react-mistake-thats-slowing-you-down/) - [#react #patterns]
 
 ## State management
 

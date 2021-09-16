@@ -11,6 +11,8 @@
 
 - [react-perf-devtool](https://github.com/nitin42/react-perf-devtool) - a browser developer tool extension to inspect performance [#react #perf #tool #extension]
 - [react-fns](https://github.com/jaredpalmer/react-fns) - browser api into declarative `React Components` and `HoC` [#render-prop #browser #api]
+- [dnd-kit](https://github.com/clauderic/dnd-kit) - lightweight, performant, accessible and extensible drag & drop toolkit [#react #dnd #tool]
+- [react-hot-toast](https://github.com/timolins/react-hot-toast) - lightweight, customizable notifications [#react #ui]
 
 ## React UI
 
@@ -74,8 +76,8 @@
 ## Other
 
 - [BOTTENDER](https://bottender.js.org/) - Make Bots in Your Way, Fast and Flexibly - [#js #slack #bots #telegram]
-- [GoJS Samples](https://gojs.net/latest/samples/index.html) - [#charts #gojs]
-- [driver](https://github.com/kamranahmedse/driver.js) - engine to drive the user's focus across the page [#popup #vanilla]
-- [uppy](https://github.com/transloadit/uppy) - file uploader [#file #uploader]
-- [ReLaXed](https://github.com/RelaxedJS/ReLaXed) - create pdf documents [#pdf #converter]
 - [choo](https://github.com/choojs/choo) - sturdy 4kb frontend framework [#ui #dom #minimal #framework #to-try]
+- [driver](https://github.com/kamranahmedse/driver.js) - engine to drive the user's focus across the page [#popup #vanilla]
+- [GoJS Samples](https://gojs.net/latest/samples/index.html) - [#charts #gojs]
+- [ReLaXed](https://github.com/RelaxedJS/ReLaXed) - create pdf documents [#pdf #converter]
+- [uppy](https://github.com/transloadit/uppy) - file uploader [#file #uploader]
