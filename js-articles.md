@@ -17,6 +17,12 @@
 - [x] [Myths about useEffect](https://epicreact.dev/myths-about-useeffect/) - [#react #hooks #guide]
 - [x] [React composition example](https://epicreact.dev/one-react-mistake-thats-slowing-you-down/) - [#react #patterns]
 
+## React Performance
+
+- [x] [React, Inline Functions, and Performance](https://medium.com/@ryanflorence/react-inline-functions-and-performance-bdff784f5578) [#react #perf]
+- [x] [When to useMemo and useCallback](https://kentcdodds.com/blog/usememo-and-usecallback) - [#react #perf]
+- [x] [Fix the slow render before you fix the re-render](https://kentcdodds.com/blog/fix-the-slow-render-before-you-fix-the-re-render) - [#react #perf]
+
 ## State management
 
 - [x] [Application State Management with React](https://kentcdodds.com/blog/application-state-management-with-react) - [#react #state #context #hooks]
