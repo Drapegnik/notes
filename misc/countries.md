@@ -4,13 +4,14 @@
 
 ### Legend
 
-| emoji | meaning       |
-| ----- | ------------- |
-| ✅    | legal visit   |
-| ✈️    | aero transit  |
-| 🚍    | bus transit   |
-| 🕑    | few hours     |
-| 📅    | upcoming trip |
+| emoji | meaning                      |
+| ----- | ---------------------------- |
+| ✅    | legal visit                  |
+| ✈️    | aero transit                 |
+| 🚍    | bus transit                  |
+| 🕑    | few hours                    |
+| 📅    | upcoming trip                |
+| 🏠    | permanent residence (month+) |
 
 ## ASIA / AFRICA
 
@@ -73,6 +74,6 @@
   - [x] Izmir
 - [x] 🇺🇦 Ukraine
   - [x] Kiev ✅ [✈️x2]
-  - [x] Lviv [x2]
+  - [x] Lviv [x3] + 🏠
 
 > Total Count - `20`
