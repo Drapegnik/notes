@@ -28,7 +28,7 @@
 
 ## NORTH AMERICA
 
-- [x] 🇨🇺 Cuba / Havana
+- [x] [🇨🇺 Cuba / Havana](https://www.instagram.com/p/BaFT0Msl-pZ/)
 
 ## SOUTH AMERICA
 
@@ -46,16 +46,17 @@
   - [x] Hvar 🚴
   - [x] Ploče 🚴
   - [x] Split 🚴
-  - [x] Ston 🚴
-  - [x] Zadar 🕑 ✈️
+  - [x] [Ston](https://www.instagram.com/p/ByIBmEeiie1/) 🚴
+  - [x] [Zadar](https://www.instagram.com/p/Bx-kKb5iKcj/) 🕑 ✈️
 - [x] [🇨🇾 Cyprus](https://www.instagram.com/stories/highlights/17899655770233346/)
-  - [x] Larnaca
-  - [x] Paphos
-- [x] 🇩🇪 Germany / Berlin
+  - [x] [Larnaca](https://www.instagram.com/p/BmxTZ2bjl64/)
+  - [x] [Paphos](https://www.instagram.com/p/Bm1NHl5jDVB/)
+  - [ ] [Agia Napa](https://www.instagram.com/p/BmqTjGaD3Bc/) 🕑
+- [x] 🇩🇪 Germany / [Berlin](https://www.instagram.com/p/Bx-AK4hC9mL/)
 - [x] [🇩🇰 Denmark / Copenhagen](https://www.instagram.com/stories/highlights/17931121702031288/)
 - [x] 🇫🇮 Finland / Helsinki
 - [x] 🇱🇻 Latvia
-  - [x] Jūrmala 🕑
+  - [x] [Jūrmala](https://www.instagram.com/p/Bm_ny7Wjydr/) 🕑
   - [x] [Riga](https://www.instagram.com/stories/highlights/17958776887116524/)
 - [x] 🇱🇹 Lithuania
   - [x] _Kaunas_ 🕑 [✈️x2]
@@ -65,15 +66,15 @@
   - [ ] Eindhoven ✈️
 - [x] <img src="https://res.cloudinary.com/dzsjwgjii/image/upload/v1545584840/trnc-flag.png" height="11rem" /> [Northern Cyprus (_TRNC_)](https://www.instagram.com/stories/highlights/17892184321285121/)
   - [x] Famagusta (_Mağusa_)
-  - [x] Kyrenia (_Girne_)
+  - [x] [Kyrenia (_Girn]e_)](https://www.instagram.com/p/BrsnsxiHo_d/)
   - [x] Nicosia (_Lefkoşa_)
 - [x] 🇷🇺 Russia / Moscow [x4] ✈️
 - [x] 🇸🇪 Sweden
-  - [x] Malmö
+  - [x] [Malmö](https://www.instagram.com/p/BhlcAqqDrlX/)
   - [x] [Stockholm](https://www.instagram.com/stories/highlights/18011765059123588/)
 - [x] 🇹🇷 Turkey
-  - [x] Adana
-  - [x] Istanbul ✅ [✈️x4]
+  - [x] [Adana](https://www.instagram.com/p/Br7L0pqH8vq/)
+  - [x] [Istanbul](https://www.instagram.com/p/Br7Cz83nlpX/) ✅ [✈️x4]
   - [x] Izmir
 - [x] 🇺🇦 Ukraine
   - [x] Kiev ✅ [✈️x2]
