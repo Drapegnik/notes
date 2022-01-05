@@ -12,6 +12,9 @@
 | 🕑    | few hours                    |
 | 📅    | upcoming trip                |
 | 🏠    | permanent residence (month+) |
+| 🚴    | by bike                      |
+| 🚗    | car transit                  |
+| ⛷️    | skiing                       |
 
 ## ASIA / AFRICA
 
@@ -35,15 +38,15 @@
 
 - [x] 🇧🇪 Belgium / Brussels
 - [x] 🇧🇦 Bosnia & Herzegovina
-  - [x] Mostar 🕑
-  - [x] Čapljina 🕑
+  - [x] Mostar 🕑 🚴
+  - [x] Čapljina 🕑 🚴
 - [x] 🇧🇬 Bulgaria / Sozopol [x2]
 - [x] 🇭🇷 Croatia
-  - [x] Dubrovnik
-  - [x] Hvar
-  - [x] Ploče
-  - [x] Split
-  - [x] Ston
+  - [x] Dubrovnik 🚴
+  - [x] Hvar 🚴
+  - [x] Ploče 🚴
+  - [x] Split 🚴
+  - [x] Ston 🚴
   - [x] Zadar 🕑 ✈️
 - [x] 🇨🇾 Cyprus
   - [x] Larnaca
@@ -75,5 +78,7 @@
 - [x] 🇺🇦 Ukraine
   - [x] Kiev ✅ [✈️x2]
   - [x] Lviv [x3] + 🏠
+  - [x] Bukovel ⛷️
+  - [x] Ivano-Frankivsk 🕑 🚗
 
 > Total Count - `20`
