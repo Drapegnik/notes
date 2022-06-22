@@ -52,7 +52,7 @@
   - [x] [Larnaca](https://www.instagram.com/p/BmxTZ2bjl64/)
   - [x] [Paphos](https://www.instagram.com/p/Bm1NHl5jDVB/)
   - [ ] [Agia Napa](https://www.instagram.com/p/BmqTjGaD3Bc/) 🕑
-- [x] 🇩🇪 Germany / [Berlin](https://www.instagram.com/p/Bx-AK4hC9mL/) [✅x2] + 🏠
+- [x] 🇩🇪 Germany / [Berlin](https://www.instagram.com/p/Bx-AK4hC9mL/) [x2] + 🏠
 - [x] [🇩🇰 Denmark / Copenhagen](https://www.instagram.com/stories/highlights/17931121702031288/)
 - [x] [🇫🇮 Finland / Helsinki](https://www.instagram.com/p/B5A7NHKHV9V/)
 - [x] 🇱🇻 Latvia
@@ -66,11 +66,11 @@
   - [ ] Eindhoven ✈️
 - [x] <img src="https://res.cloudinary.com/dzsjwgjii/image/upload/v1545584840/trnc-flag.png" height="11rem" /> [Northern Cyprus (_TRNC_)](https://www.instagram.com/stories/highlights/17892184321285121/)
   - [x] Famagusta (_Mağusa_)
-  - [x] [Kyrenia (_Girn]e_)](https://www.instagram.com/p/BrsnsxiHo_d/)
+  - [x] [Kyrenia (_Girne_)](https://www.instagram.com/p/BrsnsxiHo_d/)
   - [x] Nicosia (_Lefkoşa_)
 - [x] 🇵🇱 Poland
-  - [x] Warsaw ✅
-  - [x] Poznan [✅x2]
+  - [x] Warsaw
+  - [x] Poznan [x2]
 - [x] 🇷🇺 Russia / Moscow [x4] ✈️
 - [x] 🇸🇪 Sweden
   - [x] [Malmö](https://www.instagram.com/p/BhlcAqqDrlX/)
@@ -81,7 +81,7 @@
   - [x] Izmir
 - [x] 🇺🇦 Ukraine
   - [x] Kiev ✅ [✈️x2]
-  - [x] [Lviv](https://www.instagram.com/stories/highlights/17911522232158769/) [✅x3] + 🏠
+  - [x] [Lviv](https://www.instagram.com/stories/highlights/17911522232158769/) [x3] + 🏠
   - [x] [Bukovel](https://www.instagram.com/stories/highlights/18264198970071284/) ⛷️
   - [x] Ivano-Frankivsk 🕑 🚗
 
