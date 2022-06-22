@@ -7,6 +7,12 @@
 - [ ] [Algebraic JavaScript Specification (@fantasyland)](https://github.com/fantasyland/fantasy-land) - [#fp #patterns #toread]
 - [x] [One-Way Data Binding in VanillaJs](https://jack.ofspades.com/frameworkless-javascript-part-3-one-way-data-binding/) - [#proxy #es6 #vanilla]
 - [x] [Поле загрузки файлов, которое мы заслужили](https://habr.com/post/423035/) - [#file #upload #dnd #guide]
+- [x] [Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/) - [#core #throttle #debounce]
+
+## testing
+
+- [x] [Making your UI tests resilient to change](https://kentcdodds.com/blog/making-your-ui-tests-resilient-to-change)
+- [x] [Common mistakes with React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library)
 
 ## React
 

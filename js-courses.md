@@ -7,6 +7,7 @@
 - [ ] [Паттерны для масштабируемых JavaScript-приложений](http://largescalejs.ru/) - [#js #patterns #toread]
 - [ ] [Factory паттерн в Javascript](https://monsterlessons.com/project/lessons/factory-pattern-v-javascript) - [#js #patterns #factory #towatch]
 - [ ] [#JavaScript30](https://javascript30.com/) - [#js #vanilla]
+- [ ] [Learning SEO](https://learningseo.io/) - A Roadmap with Free Guides & Tools [#seo #web #guide]
 
 ## React
 
