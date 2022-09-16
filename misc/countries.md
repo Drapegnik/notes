@@ -52,7 +52,10 @@
   - [x] [Larnaca](https://www.instagram.com/p/BmxTZ2bjl64/)
   - [x] [Paphos](https://www.instagram.com/p/Bm1NHl5jDVB/)
   - [ ] [Agia Napa](https://www.instagram.com/p/BmqTjGaD3Bc/) 🕑
-- [x] 🇩🇪 Germany / [Berlin](https://www.instagram.com/p/Bx-AK4hC9mL/) [x2] + 🏠
+- [x] 🇩🇪 Germany
+  - [x] [Berlin](https://www.instagram.com/p/Bx-AK4hC9mL/) [x2] + 🏠
+  - [x] [Cottbus] 🕑 🚴
+  - [x] [Guben] 🕑 🚴
 - [x] [🇩🇰 Denmark / Copenhagen](https://www.instagram.com/stories/highlights/17931121702031288/)
 - [x] [🇫🇮 Finland / Helsinki](https://www.instagram.com/p/B5A7NHKHV9V/)
 - [x] 🇱🇻 Latvia
@@ -70,7 +73,10 @@
   - [x] Nicosia (_Lefkoşa_)
 - [x] 🇵🇱 Poland
   - [x] Warsaw
-  - [x] Poznan [x2]
+  - [x] Poznan [x4]
+  - [x] Gorzów Wielkopolski
+  - [x] Gubin
+  - [x] Świebodzin 🕑 🚴
 - [x] 🇷🇺 Russia / Moscow [x4] ✈️
 - [x] 🇸🇪 Sweden
   - [x] [Malmö](https://www.instagram.com/p/BhlcAqqDrlX/)

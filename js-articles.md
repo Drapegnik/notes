@@ -8,6 +8,7 @@
 - [x] [One-Way Data Binding in VanillaJs](https://jack.ofspades.com/frameworkless-javascript-part-3-one-way-data-binding/) - [#proxy #es6 #vanilla]
 - [x] [Поле загрузки файлов, которое мы заслужили](https://habr.com/post/423035/) - [#file #upload #dnd #guide]
 - [x] [Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/) - [#core #throttle #debounce]
+- [x] [37 Essential JavaScript Interview Questions](https://www.toptal.com/javascript/interview-questions) - [#core #intervew]
 
 ## testing
 
