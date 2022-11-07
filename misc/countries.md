@@ -59,8 +59,8 @@
 - [x] [🇩🇰 Denmark / Copenhagen](https://www.instagram.com/stories/highlights/17931121702031288/)
 - [x] [🇫🇮 Finland / Helsinki](https://www.instagram.com/p/B5A7NHKHV9V/)
 - [x] 🇱🇻 Latvia
-  - [x] [Jūrmala](https://www.instagram.com/p/Bm_ny7Wjydr/) 🕑
-  - [x] [Riga](https://www.instagram.com/stories/highlights/17958776887116524/)
+  - [x] [Jūrmala](https://www.instagram.com/p/Bm_ny7Wjydr/) 🕑 [x2]
+  - [x] [Rīgas](https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTU0NTc3NjYyMzE3NzI1) [x2]
 - [x] 🇱🇹 Lithuania
   - [x] _Kaunas_ 🕑 [✈️x2]
   - [x] Vilnius [✅x2], [✈️x5]
