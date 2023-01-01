@@ -54,8 +54,9 @@
   - [ ] [Agia Napa](https://www.instagram.com/p/BmqTjGaD3Bc/) 🕑
 - [x] 🇩🇪 Germany
   - [x] [Berlin](https://www.instagram.com/p/Bx-AK4hC9mL/) [x2] + 🏠
-  - [x] [Cottbus] 🕑 🚴
-  - [x] [Guben] 🕑 🚴
+  - [x] Cottbus 🕑 🚴
+  - [x] Guben 🕑 🚴
+  - [x] [München](https://www.instagram.com/stories/highlights/17870473766812628/) [x2]
 - [x] [🇩🇰 Denmark / Copenhagen](https://www.instagram.com/stories/highlights/17931121702031288/)
 - [x] [🇫🇮 Finland / Helsinki](https://www.instagram.com/p/B5A7NHKHV9V/)
 - [x] 🇱🇻 Latvia
@@ -73,7 +74,7 @@
   - [x] Nicosia (_Lefkoşa_)
 - [x] 🇵🇱 Poland
   - [x] Warsaw
-  - [x] Poznan [x4]
+  - [x] Poznan [x5]
   - [x] Gorzów Wielkopolski
   - [x] Gubin
   - [x] Świebodzin 🕑 🚴
@@ -90,5 +91,7 @@
   - [x] [Lviv](https://www.instagram.com/stories/highlights/17911522232158769/) [x3] + 🏠
   - [x] [Bukovel](https://www.instagram.com/stories/highlights/18264198970071284/) ⛷️
   - [x] Ivano-Frankivsk 🕑 🚗
+- [x] 🇦🇹 Austria
+  - [x] [Mayrhofen](https://www.instagram.com/stories/highlights/17905918676686344/) ⛷️
 
-> Total Count - `21`
+> Total Count - `22`
