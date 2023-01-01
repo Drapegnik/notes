@@ -36,6 +36,8 @@
 
 ## EUROPE
 
+- [x] 🇦🇹 Austria
+  - [x] [Mayrhofen](https://www.instagram.com/stories/highlights/17905918676686344/) ⛷️
 - [x] 🇧🇪 Belgium / Brussels
 - [x] [🇧🇦 Bosnia & Herzegovina](https://www.instagram.com/stories/highlights/18043487635134053/)
   - [x] Mostar 🕑 🚴
@@ -91,7 +93,5 @@
   - [x] [Lviv](https://www.instagram.com/stories/highlights/17911522232158769/) [x3] + 🏠
   - [x] [Bukovel](https://www.instagram.com/stories/highlights/18264198970071284/) ⛷️
   - [x] Ivano-Frankivsk 🕑 🚗
-- [x] 🇦🇹 Austria
-  - [x] [Mayrhofen](https://www.instagram.com/stories/highlights/17905918676686344/) ⛷️
 
 > Total Count - `22`
