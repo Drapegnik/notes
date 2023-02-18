@@ -18,17 +18,18 @@
 ## React
 
 - [ ] [Simple React Patterns](https://lucasmreis.github.io/blog/simple-react-patterns/) - Dealing With Side-Effects In React [#react #patterns #toread]
-- [ ] [Анализ производительности React 16 приложений с помощью инструментов разработчика Chrome](https://habrahabr.ru/company/ruvds/blog/343888/) - [#react #debug #chrome #performance #toread]
 - [x] [How to Use Storybook in a React Project](https://blog.bam.tech/developper-news/use-storybook-react-project) - [#react #storybook #snapshot #testing #styleguide]
 - [x] [Where to put state scheme](https://kentcdodds.com/static/f14c2d3af9a01a178dd70ab1e2449180/a6d66/where-to-put-state.png) - [#react #state #context]
 - [x] [Myths about useEffect](https://epicreact.dev/myths-about-useeffect/) - [#react #hooks #guide]
 - [x] [React composition example](https://epicreact.dev/one-react-mistake-thats-slowing-you-down/) - [#react #patterns]
 
-## React Performance
+## Performance
 
 - [x] [React, Inline Functions, and Performance](https://medium.com/@ryanflorence/react-inline-functions-and-performance-bdff784f5578) [#react #perf]
 - [x] [When to useMemo and useCallback](https://kentcdodds.com/blog/usememo-and-usecallback) - [#react #perf]
 - [x] [Fix the slow render before you fix the re-render](https://kentcdodds.com/blog/fix-the-slow-render-before-you-fix-the-re-render) - [#react #perf]
+- [x] [Profiling React component performance with Chrome devtools](https://calibreapp.com/blog/react-performance-profiling-optimization) - [#react #debug #chrome #performance #audit]
+- [ ] [Приёмы ускорения кода на JS и других языках: подборка от разработчика поиска Яндекса](https://habr.com/ru/company/yandex/blog/570914/) - [#perf #refactor #optimization]
 
 ## State management
 
@@ -58,9 +59,10 @@
 
 ### Redux
 
+- [x] [A cartoon guide to Flux](https://code-cartoons.com/articles/a-cartoon-guide-to-flux/) - [#flux]
+- [x] [A cartoon intro to Redux](https://code-cartoons.com/articles/a-cartoon-intro-to-redux/) - [#redux]
 - [x] [С 0 до 1. Разбираемся с Redux](https://habrahabr.ru/post/269831/) - [#redux]
 - [x] [Redux modules and code-splitting](http://nicolasgallagher.com/redux-modules-and-code-splitting/) - [#redux #async #toread]
-<!-- * [ ] []() - [# #toread] -->
 
 ### Webpack
 

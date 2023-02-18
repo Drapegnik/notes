@@ -73,6 +73,10 @@
 - [hubdb](https://github.com/mapbox/hubdb) - a github-powered database
 - [js-git](https://github.com/creationix/js-git) - js implementation of git
 
+## TypeScript
+
+- [tRPC](https://trpc.io/) - Typesafe APIs easy
+
 ## Other
 
 - [BOTTENDER](https://bottender.js.org/) - Make Bots in Your Way, Fast and Flexibly - [#js #slack #bots #telegram]
@@ -81,3 +85,4 @@
 - [GoJS Samples](https://gojs.net/latest/samples/index.html) - [#charts #gojs]
 - [ReLaXed](https://github.com/RelaxedJS/ReLaXed) - create pdf documents [#pdf #converter]
 - [uppy](https://github.com/transloadit/uppy) - file uploader [#file #uploader]
+- [partytown](https://partytown.builder.io/) - move 3rd party script to worker thread [#perf #core]

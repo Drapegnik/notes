@@ -36,3 +36,4 @@
 - [pandoc](https://github.com/jgm/pandoc) - universal markup converter [#cli #md]
 - [asciinema](https://github.com/asciinema/asciinema) - terminal session recorder [#cli]
 - [XSStrike](https://github.com/s0md3v/XSStrike) - advanced XSS scanner [#xss #exploit #cli]
+- [maigret](https://github.com/soxoj/maigret) - search person by username [#osint #parsser #crawler]
