@@ -18,6 +18,7 @@
 - [ ] [Awesome design patterns](https://github.com/DovAmir/awesome-design-patterns) - [#toread #patterns]
 - [ ] [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog) - [#toread #patterns]
 - [x] [What is a state machine?](https://statecharts.github.io/what-is-a-state-machine.html) - [#state #machine #finite-state]
+- [ ] [Redis Explained](https://architecturenotes.co/redis/) - [#db #database #redis #guide]
 
 ## Functional
 
@@ -28,7 +29,3 @@
 ## Papers
 
 - [ ] [Monadic Parsing in Haskell](http://www.cs.nott.ac.uk/~pszgmh/pearl.pdf) - [#toread #hashell #parser]
-
-## Scale
-
-- [ ] [Хайлоад: Масштабирование и оптимизация](https://ruhighload.com/) - [#toread #scale #load #cache]

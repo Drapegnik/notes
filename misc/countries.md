@@ -75,7 +75,7 @@
   - [x] [Kyrenia (_Girne_)](https://www.instagram.com/p/BrsnsxiHo_d/)
   - [x] Nicosia (_Lefkoşa_)
 - [x] 🇵🇱 Poland
-  - [x] Warsaw
+  - [x] Warsaw [x2]
   - [x] Poznan [x5]
   - [x] Gorzów Wielkopolski
   - [x] Gubin
