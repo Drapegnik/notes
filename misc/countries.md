@@ -66,9 +66,13 @@
   - [x] [Rīgas](https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTU0NTc3NjYyMzE3NzI1) [x2]
 - [x] 🇱🇹 Lithuania
   - [x] _Kaunas_ 🕑 [✈️x2]
-  - [x] Vilnius [✅x2], [✈️x5]
+  - [x] Vilnius [✅x3], [✈️x5]
 - [x] 🇳🇱 Netherlands
-  - [x] [Amsterdam](https://www.instagram.com/stories/highlights/17891336821170782/)
+  - [x] [Amsterdam](https://www.instagram.com/stories/highlights/17891336821170782/) ✅ + 🚴
+  - [x] [Haarlem](https://www.instagram.com/stories/highlights/17960348357596704/?hl=en)
+  - [x] Bloemendaal 🚴
+  - [x] Zandvoort 🚴
+  - [x] [The Hague](https://www.instagram.com/reel/CtPoARhoU1c/?hl=en) 🕑
   - [ ] Eindhoven ✈️
 - [x] <img src="https://res.cloudinary.com/dzsjwgjii/image/upload/v1545584840/trnc-flag.png" height="11rem" /> [Northern Cyprus (_TRNC_)](https://www.instagram.com/stories/highlights/17892184321285121/)
   - [x] Famagusta (_Mağusa_)
