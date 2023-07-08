@@ -85,6 +85,9 @@
   - [x] Gubin
   - [x] Świebodzin 🕑 🚴
 - [x] 🇷🇺 Russia / Moscow [x4] ✈️
+- [x] [🇪🇸 Spain](https://www.instagram.com/stories/highlights/17973615032382246/)
+  - [x] Benalmádena
+  - [x] Málaga
 - [x] 🇸🇪 Sweden
   - [x] [Malmö](https://www.instagram.com/p/BhlcAqqDrlX/)
   - [x] [Stockholm](https://www.instagram.com/stories/highlights/18011765059123588/)
@@ -98,4 +101,8 @@
   - [x] [Bukovel](https://www.instagram.com/stories/highlights/18264198970071284/) ⛷️
   - [x] Ivano-Frankivsk 🕑 🚗
 
-> Total Count - `22`
+> Total Count - `23`
+
+## darafei
+
+🇺🇦🇵🇱🇩🇪🇱🇻🇦🇹🇱🇹🇳🇱🇪🇸
