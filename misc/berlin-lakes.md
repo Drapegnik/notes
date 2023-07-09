@@ -2,17 +2,19 @@
 
 🏊 todo list of visited lakes
 
-- [ ] > [Weissensee](https://goo.gl/maps/BetCWCpJXzMyyMwi6) - 5 km
+- [ ] > [Weissensee](https://goo.gl/maps/8ohA3zfJ7f3wu66N6) - 5 km
 - [ ] > [Orankesee](https://goo.gl/maps/Hr4fQPi17UFpUekJ7) - 7 km
 - [ ] > [Plötzensee](https://www.google.com/maps/place/Plötzensee) - 7 km
-- [ ] > [Lietzensee](https://goo.gl/maps/rtCTSQzkmrJ64RTeA) - 10 km
 - [ ] > [Flughafensee](https://goo.gl/maps/YzXrG8znnuBJdoCp7) - 14 km
 - [ ] > [Teufelssee](https://goo.gl/maps/2Kmj42DcqkxccGJp7) - 15 km
 - [ ] > [Tegeler See](https://www.google.com/maps/place/Tegeler+See) - 16 km
 - [x] > [Krumme Lanke](https://www.google.com/maps/place/Krumme+Lanke) - 17 km
+  - [x] [Badestelle 3](https://goo.gl/maps/QZiJ8TcG2NC2eZ557)
 - [x] > [Schlachtensee](https://goo.gl/maps/hGyiYYGq1SQnPnhG7) - 20 km
-- [ ] > [Müggelsee](https://www.google.com/maps/place/Müggelsee) - 20 km
+- [x] > [Müggelsee](https://www.google.com/maps/place/Müggelsee) - 20 km
+  - [x] [Strandbad Müggelsee](https://goo.gl/maps/MyRJy3UURkveUmKB6)
 - [ ] > [Wannsee](https://www.google.com/maps/place/Großer+Wannsee) - 20 km
+  - [ ] [Strandbad Wannsee - Berliner Bäder](https://goo.gl/maps/6RmuVCaKCT8JMfBdA)
 - [ ] > [Groß Glienicker See](https://www.google.com/maps/place/Groß+Glienicker+See) - 25 km
 - [ ] > [Nieder Neuendorfer See](https://goo.gl/maps/KP64R1Xw4ctb6CtA7) - 25 km
 - [ ] > [Zeuthener See](https://goo.gl/maps/9PLNiUrqmbyYJYg77) - 27 km
