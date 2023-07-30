@@ -14,6 +14,8 @@
 - [serviceworkies](https://serviceworkies.com/) - [#game #js #workers]
 - [The best of JavaScript, HTML and CSS](https://bestof.js.org/) - [#js #find #best #tool]
 - [Wallcat](https://beta.wall.cat/) - Enjoy a new, beautiful wallpaper, every day.
+- [SankeyMATIC](https://sankeymatic.com/build/) - Build a Sankey Diagram [#diagram #dataviz]
+- [fav.farm](https://fav.farm/) - quick emoji favicon
 
 ## validators
 
@@ -23,6 +25,7 @@
 - [bundlephobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle [#size #bundle]
 - [performancebudget](http://www.performancebudget.io/) - calculate a performance budget for your site [#performance #js]
 - [pr-cy](https://pr-cy.ru/) - SEO audit & site monitoring [#seo #audit #check]
+- [HTML semantics checklist](https://learntheweb.courses/topics/html-semantics-checklist/) - [#html #semantic #markup #checklist]
 
 ## generators
 

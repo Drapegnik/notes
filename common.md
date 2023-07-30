@@ -10,6 +10,7 @@
 - [ ] [Essential Image Optimization](https://images.guide/) [#book #images #optimization]
 - [ ] [Caching best practices & max-age gotchas](https://jakearchibald.com/2016/caching-best-practices/) [#cache #guide #toread]
 - [x] [Краткий гайд о том, как нанимать нормальных людей](https://vas3k.ru/inside/46/) [#guide #hr]
+- [x] [What Every Programmer Should Know About SEO](https://katemats.com/blog/what-every-programmer-should-know-about-seo) [#web #seo #browser]
 
 ## Architecture
 

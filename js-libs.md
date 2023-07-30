@@ -6,6 +6,7 @@
 
 - [licia](https://github.com/liriliri/licia) - huge number of useful and small js functions, modules & classes [#utils #lodash]
 - [type-fest](https://github.com/sindresorhus/type-fest) - a collection of essential TypeScript types [#ts #tools #helpers]
+- [regexhq](https://github.com/regexhq) - useful regex collection
 
 ## React
 
@@ -86,3 +87,4 @@
 - [ReLaXed](https://github.com/RelaxedJS/ReLaXed) - create pdf documents [#pdf #converter]
 - [uppy](https://github.com/transloadit/uppy) - file uploader [#file #uploader]
 - [partytown](https://partytown.builder.io/) - move 3rd party script to worker thread [#perf #core]
+- [transformers.js](https://github.com/xenova/transformers.js) - run AI models in browser
