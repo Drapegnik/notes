@@ -2,7 +2,7 @@
 
 🏊 todo list of visited lakes
 
-- [ ] > [Weissensee](https://goo.gl/maps/8ohA3zfJ7f3wu66N6) - 5 km
+- [x] > [Weissensee](https://goo.gl/maps/8ohA3zfJ7f3wu66N6) - 5 km (€7 adult, €4.5 pp for family)
 - [ ] > [Orankesee](https://goo.gl/maps/Hr4fQPi17UFpUekJ7) - 7 km
 - [ ] > [Plötzensee](https://www.google.com/maps/place/Plötzensee) - 7 km
 - [ ] > [Flughafensee](https://goo.gl/maps/YzXrG8znnuBJdoCp7) - 14 km
