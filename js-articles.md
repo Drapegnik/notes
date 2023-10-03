@@ -9,6 +9,7 @@
 - [x] [Поле загрузки файлов, которое мы заслужили](https://habr.com/post/423035/) - [#file #upload #dnd #guide]
 - [x] [Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/) - [#core #throttle #debounce]
 - [x] [37 Essential JavaScript Interview Questions](https://www.toptal.com/javascript/interview-questions) - [#core #intervew]
+- [ ] [Component Party](https://component-party.dev/) - Web component JS frameworks overview by their syntax and features [#react #vue #toread]
 
 ## testing
 
