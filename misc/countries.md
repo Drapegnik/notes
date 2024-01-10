@@ -38,7 +38,11 @@
 ## EUROPE
 
 - [x] 🇦🇹 Austria
+  - [x] Hinterglemm ⛷️
   - [x] [Mayrhofen](https://www.instagram.com/stories/highlights/17905918676686344/) ⛷️
+  - [x] [Saalbach](https://www.instagram.com/stories/highlights/18014200115020677/) ⛷️
+  - [x] Salzburg 🕑
+  - [x] Zell am See 🕑
 - [x] 🇧🇪 Belgium / Brussels
 - [x] [🇧🇦 Bosnia & Herzegovina](https://www.instagram.com/stories/highlights/18043487635134053/)
   - [x] Mostar 🕑 🚴
@@ -57,13 +61,16 @@
   - [ ] [Agia Napa](https://www.instagram.com/p/BmqTjGaD3Bc/) 🕑
 - [x] 🇩🇪 Germany
   - [x] [Berlin](https://www.instagram.com/p/Bx-AK4hC9mL/) [x2] + 🏠
-  - [x] Cottbus 🕑 🚴
+  - [x] Cottbus 🚴
   - [x] Glowe (Rügen) ✅
-  - [x] Guben 🕑 🚴
-  - [x] [München](https://www.instagram.com/stories/highlights/17870473766812628/) [x2]
-  - [x] Sagard (Rügen) 🕑 🚴
+  - [x] Greifswald 🚴
+  - [x] Guben 🚴
+  - [x] Heringsdorf 🚴
+  - [x] [München](https://www.instagram.com/stories/highlights/17870473766812628/) [x3]
+  - [x] Sagard (Rügen) 🚴
   - [x] Spreewald 🕑 🛶
-  - [x] Stralsund 🕑 🚴
+  - [x] Stralsund [x2] 🚴
+  - [x] Wolgast 🚴
 - [x] [🇩🇰 Denmark / Copenhagen](https://www.instagram.com/stories/highlights/17931121702031288/)
 - [x] [🇫🇮 Finland / Helsinki](https://www.instagram.com/p/B5A7NHKHV9V/)
 - [x] 🇱🇻 Latvia
@@ -88,7 +95,11 @@
   - [x] Poznan [x5]
   - [x] Gorzów Wielkopolski
   - [x] Gubin
-  - [x] Świebodzin 🕑 🚴
+  - [x] Szczecin 🕑 🚴
+  - [x] Świebodzin 🚴
+  - [x] Świnoujście 🕑 🚴
+  - [x] Wolin 🚴
+  - [x] Wrocław [x3]
 - [x] 🇷🇺 Russia / Moscow [x4] ✈️
 - [x] [🇪🇸 Spain](https://www.instagram.com/stories/highlights/17973615032382246/)
   - [x] Benalmádena
