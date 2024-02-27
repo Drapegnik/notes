@@ -6,7 +6,7 @@
 - [ ] > [Orankesee](https://goo.gl/maps/Hr4fQPi17UFpUekJ7) - 7 km
 - [ ] > [Plötzensee](https://www.google.com/maps/place/Plötzensee) - 7 km
 - [ ] > [Flughafensee](https://goo.gl/maps/YzXrG8znnuBJdoCp7) - 14 km
-- [ ] > [Teufelssee](https://goo.gl/maps/2Kmj42DcqkxccGJp7) - 15 km
+- [x] > [Teufelssee](https://goo.gl/maps/2Kmj42DcqkxccGJp7) - 15 km (FKK)
 - [ ] > [Tegeler See](https://www.google.com/maps/place/Tegeler+See) - 16 km
 - [x] > [Krumme Lanke](https://www.google.com/maps/place/Krumme+Lanke) - 17 km
   - [x] [Badestelle 3](https://goo.gl/maps/QZiJ8TcG2NC2eZ557)
