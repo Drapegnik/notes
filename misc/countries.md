@@ -71,7 +71,9 @@
   - [x] Spreewald 🕑 🛶
   - [x] Stralsund [x2] 🚴
   - [x] Wolgast 🚴
-- [x] [🇩🇰 Denmark / Copenhagen](https://www.instagram.com/stories/highlights/17931121702031288/)
+- [x] 🇩🇰 Denmark
+  - [x] [Copenhagen](https://www.instagram.com/stories/highlights/17931121702031288/)
+  - [x] [Falster](https://www.instagram.com/stories/highlights/18053793976602851/) 🚴
 - [x] [🇫🇮 Finland / Helsinki](https://www.instagram.com/p/B5A7NHKHV9V/)
 - [x] 🇱🇻 Latvia
   - [x] [Jūrmala](https://www.instagram.com/p/Bm_ny7Wjydr/) 🕑 [x2]
@@ -121,4 +123,4 @@
 
 ## darafei
 
-🇺🇦🇵🇱🇩🇪🇱🇻🇦🇹🇱🇹🇳🇱🇪🇸
+🇺🇦🇵🇱🇩🇪🇱🇻🇦🇹🇱🇹🇳🇱🇪🇸🇩🇰
