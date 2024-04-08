@@ -2,6 +2,7 @@
 
 ## Common
 
+- [x] [What Is A Single-page Application?](https://heydonworks.com/article/what-is-a-single-page-application/) - [#js #spa #fun]
 - [ ] [JavaScript. The Core: 2nd Edition](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/) - [#js #toread]
 - [ ] [ES6 In Depth: Destructuring](https://hacks.mozilla.org/2015/05/es6-in-depth-destructuring/) - [#es6 #toread]
 - [ ] [Algebraic JavaScript Specification (@fantasyland)](https://github.com/fantasyland/fantasy-land) - [#fp #patterns #toread]
