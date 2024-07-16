@@ -23,3 +23,5 @@
 - [ ] > [Liepnitzsee](https://goo.gl/maps/YsgpyEU8WZhbQMjq8) - 31 km
 - [ ] > [Flakensee](https://goo.gl/maps/6qebmxma6atwJMAEA) - 31 km
 - [ ] > [Seddinsee](https://www.google.com/maps/place/Seddinsee) - 32 km
+- [ ] > [Wandlitzer See](https://maps.app.goo.gl/52KoFe9KUuo3UXMa9) - 33 km
+- [ ] > [Stolzenhagener See](https://maps.app.goo.gl/8wNyC9SgPCk6prn9A) - 33 km
