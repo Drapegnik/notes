@@ -20,7 +20,7 @@
 - [ ] > [Zeuthener See](https://goo.gl/maps/9PLNiUrqmbyYJYg77) - 27 km
 - [ ] > [Dämeritzsee](https://goo.gl/maps/4ezMUFaZ6vJ2BLNw9) - 29 km
 - [ ] > [Jungfernsee](https://www.google.com/maps/place/Jungfernsee) - 30 km
-- [ ] > [Liepnitzsee](https://goo.gl/maps/YsgpyEU8WZhbQMjq8) - 31 km
+- [x] > [Liepnitzsee](https://goo.gl/maps/YsgpyEU8WZhbQMjq8) - 31 km
 - [ ] > [Flakensee](https://goo.gl/maps/6qebmxma6atwJMAEA) - 31 km
 - [ ] > [Seddinsee](https://www.google.com/maps/place/Seddinsee) - 32 km
 - [ ] > [Wandlitzer See](https://maps.app.goo.gl/52KoFe9KUuo3UXMa9) - 33 km
