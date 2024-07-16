@@ -71,6 +71,10 @@
   - [x] Spreewald 🕑 🛶
   - [x] Stralsund [x2] 🚴
   - [x] Wolgast 🚴
+  - [x] Düsseldorf ✅
+  - [x] Dortmund 🕑
+  - [x] Duisburg
+  - [x] Gelsenkirchen 🕑
 - [x] 🇩🇰 Denmark
   - [x] [Copenhagen](https://www.instagram.com/stories/highlights/17931121702031288/)
   - [x] [Falster](https://www.instagram.com/stories/highlights/18053793976602851/) 🚴
@@ -101,7 +105,8 @@
   - [x] Świebodzin 🚴
   - [x] Świnoujście 🕑 🚴
   - [x] Wolin 🚴
-  - [x] Wrocław [x3]
+  - [x] Wrocław [x4]
+  - [x] Białystok
 - [x] 🇷🇺 Russia / Moscow [x4] ✈️
 - [x] [🇪🇸 Spain](https://www.instagram.com/stories/highlights/17973615032382246/)
   - [x] Benalmádena
@@ -123,4 +128,4 @@
 
 ## darafei
 
-🇺🇦🇵🇱🇩🇪🇱🇻🇦🇹🇱🇹🇳🇱🇪🇸🇩🇰
+🇺🇦🇵🇱🇩🇪🇱🇻🇦🇹🇱🇹🇳🇱🇪🇸🇩🇰🇬🇷
