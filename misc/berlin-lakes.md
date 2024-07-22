@@ -23,5 +23,9 @@
 - [x] > [Liepnitzsee](https://goo.gl/maps/YsgpyEU8WZhbQMjq8) - 31 km
 - [ ] > [Flakensee](https://goo.gl/maps/6qebmxma6atwJMAEA) - 31 km
 - [ ] > [Seddinsee](https://www.google.com/maps/place/Seddinsee) - 32 km
-- [ ] > [Wandlitzer See](https://maps.app.goo.gl/52KoFe9KUuo3UXMa9) - 33 km
+- [x] > [Wandlitzsee](https://maps.app.goo.gl/52KoFe9KUuo3UXMa9) - 33 km
+  - [x] [Strandbad Wandlitzsee](https://maps.app.goo.gl/jyRwJqemh5h7GRbL6) - (€3 entry, €10 sup)
+  - [ ] [Badestelle Wandlitz](https://maps.app.goo.gl/pT1xyuxQWpTuCRsP7)
 - [ ] > [Stolzenhagener See](https://maps.app.goo.gl/8wNyC9SgPCk6prn9A) - 33 km
+- [ ] > [Templiner See](https://maps.app.goo.gl/67qj7FH73WUC1rjR6) - 36 km
+  - [ ] [Waldbad Templin](https://maps.app.goo.gl/Zq87Z8a5m2oSMXaR8)
