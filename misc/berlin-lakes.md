@@ -27,5 +27,5 @@
   - [x] [Strandbad Wandlitzsee](https://maps.app.goo.gl/jyRwJqemh5h7GRbL6) - (€3 entry, €10 sup)
   - [ ] [Badestelle Wandlitz](https://maps.app.goo.gl/pT1xyuxQWpTuCRsP7)
 - [ ] > [Stolzenhagener See](https://maps.app.goo.gl/8wNyC9SgPCk6prn9A) - 33 km
-- [ ] > [Templiner See](https://maps.app.goo.gl/67qj7FH73WUC1rjR6) - 36 km
-  - [ ] [Waldbad Templin](https://maps.app.goo.gl/Zq87Z8a5m2oSMXaR8)
+- [x] > [Templiner See](https://maps.app.goo.gl/67qj7FH73WUC1rjR6) - 36 km
+  - [x] [Waldbad Templin](https://maps.app.goo.gl/Zq87Z8a5m2oSMXaR8)
