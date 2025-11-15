@@ -16,6 +16,7 @@
 | 🚗    | car transit                  |
 | ⛷️    | skiing                       |
 | 🛶    | kayaking                     |
+| 💼    | business trip                |
 
 ## ASIA / AFRICA
 
@@ -43,11 +44,19 @@
   - [x] [Saalbach](https://www.instagram.com/stories/highlights/18014200115020677/) ⛷️
   - [x] Salzburg 🕑
   - [x] Zell am See 🕑
-- [x] 🇧🇪 Belgium / Brussels
+  - [x] Insbruck 🕑
+- [x] 🇧🇪 Belgium
+  - [x] Brussels ✅
+  - [x] Liège 🕑🚴
+  - [x] Bastogne 🚴
+  - [x] Durbuy 🚴
 - [x] [🇧🇦 Bosnia & Herzegovina](https://www.instagram.com/stories/highlights/18043487635134053/)
   - [x] Mostar 🕑 🚴
   - [x] Čapljina 🕑 🚴
 - [x] 🇧🇬 Bulgaria / Sozopol [x2]
+- [x] 🇨🇿 Czechia
+  - [x] [Prague](https://www.instagram.com/stories/highlights/18019531040441103/) 🕑
+  - [x] Špindlerův Mlýn ⛷️
 - [x] [🇭🇷 Croatia](https://www.instagram.com/stories/highlights/17975571403255195/)
   - [x] Dubrovnik 🚴
   - [x] Hvar 🚴
@@ -59,6 +68,8 @@
   - [x] [Larnaca](https://www.instagram.com/p/BmxTZ2bjl64/)
   - [x] [Paphos](https://www.instagram.com/p/Bm1NHl5jDVB/)
   - [ ] [Agia Napa](https://www.instagram.com/p/BmqTjGaD3Bc/) 🕑
+- [x] 🇫🇷 France
+  - [x] Thionville 🕑🚴
 - [x] 🇩🇪 Germany
   - [x] [Berlin](https://www.instagram.com/p/Bx-AK4hC9mL/) [x2] + 🏠
   - [x] Cottbus 🚴
@@ -75,6 +86,14 @@
   - [x] Dortmund 🕑
   - [x] Duisburg
   - [x] Gelsenkirchen 🕑
+  - [x] [Freiburg](https://www.instagram.com/stories/highlights/18068195668806826/) ✅
+  - [x] [Garmisch-Partenkirchen](https://www.instagram.com/stories/highlights/18021266750208987/) ✅
+  - [x] Heidelberg 🕑
+  - [x] Hamburg
+  - [x] Aachen 🕑🚴
+  - [x] Bonn 🕑
+- [x] 🇬🇷 Greece
+  - [x] [Corfu](https://www.instagram.com/stories/highlights/18064725758462100/)
 - [x] 🇩🇰 Denmark
   - [x] [Copenhagen](https://www.instagram.com/stories/highlights/17931121702031288/)
   - [x] [Falster](https://www.instagram.com/stories/highlights/18053793976602851/) 🚴
@@ -85,29 +104,41 @@
 - [x] 🇱🇹 Lithuania
   - [x] _Kaunas_ 🕑 [✈️x2]
   - [x] Vilnius [✅x3], [✈️x5]
+- [x] [🇱🇺 Luxembourg](https://www.instagram.com/stories/highlights/18012945635170124/) 🚴
+  - [x] Luxembourg City ✅🚴
+  - [x] Wiltz 🚴
+- [x] [🇮🇹 Italy](https://www.instagram.com/stories/highlights/17929946153935352/)
+  - [x] Salerno
+  - [x] Naples 🕑
+  - [x] Positano 🕑
+  - [x] Amalfi 🕑
 - [x] 🇳🇱 Netherlands
   - [x] [Amsterdam](https://www.instagram.com/stories/highlights/17891336821170782/) ✅ + 🚴
-  - [x] [Haarlem](https://www.instagram.com/stories/highlights/17960348357596704/?hl=en)
+  - [x] [Haarlem](https://www.instagram.com/stories/highlights/17960348357596704/?hl=en) [x2]
   - [x] Bloemendaal 🚴
   - [x] Zandvoort 🚴
   - [x] [The Hague](https://www.instagram.com/reel/CtPoARhoU1c/?hl=en) 🕑
   - [ ] Eindhoven ✈️
+  - [x] Leiden 🕑
+  - [x] Maastricht 🕑🚴
 - [x] <img src="https://res.cloudinary.com/dzsjwgjii/image/upload/v1545584840/trnc-flag.png" height="11rem" /> [Northern Cyprus (_TRNC_)](https://www.instagram.com/stories/highlights/17892184321285121/)
   - [x] Famagusta (_Mağusa_)
   - [x] [Kyrenia (_Girne_)](https://www.instagram.com/p/BrsnsxiHo_d/)
   - [x] Nicosia (_Lefkoşa_)
 - [x] 🇵🇱 Poland
-  - [x] Warsaw [x2]
-  - [x] Poznan [x5]
+  - [x] [Warsaw](https://www.instagram.com/stories/highlights/18134365798436351/) [x4]
+  - [x] [Poznan](https://www.instagram.com/stories/highlights/18219539818135360/) [x6] 🚴
   - [x] Gorzów Wielkopolski
   - [x] Gubin
   - [x] Szczecin 🕑 🚴
   - [x] Świebodzin 🚴
   - [x] Świnoujście 🕑 🚴
   - [x] Wolin 🚴
-  - [x] Wrocław [x4]
-  - [x] Białystok
-- [x] 🇷🇺 Russia / Moscow [x4] ✈️
+  - [x] [Wrocław](https://www.instagram.com/stories/highlights/17946305426686139/) [x4]
+  - [x] [Białystok](https://www.instagram.com/stories/highlights/18029280047177667/)
+- [x] 🇷🇺 Russia / Moscow [x4] ✈️ 💼
+- [ ] 🇸🇮 Slovenia 📅
+  - [ ] Kranjska Gora ⛷️
 - [x] [🇪🇸 Spain](https://www.instagram.com/stories/highlights/17973615032382246/)
   - [x] Benalmádena
   - [x] Málaga
@@ -118,14 +149,16 @@
   - [x] [Adana](https://www.instagram.com/p/Br7L0pqH8vq/)
   - [x] [Istanbul](https://www.instagram.com/p/Br7Cz83nlpX/) ✅ [✈️x4]
   - [x] Izmir
+- [x] 🇬🇧 United Kingdom
+  - [x] [London](https://www.instagram.com/stories/highlights/18018014837790591/) 💼
 - [x] 🇺🇦 Ukraine
   - [x] Kiev ✅ [✈️x2]
   - [x] [Lviv](https://www.instagram.com/stories/highlights/17911522232158769/) [x3] + 🏠
   - [x] [Bukovel](https://www.instagram.com/stories/highlights/18264198970071284/) ⛷️
   - [x] Ivano-Frankivsk 🕑 🚗
 
-> Total Count - `23`
+> Total Count - `30`
 
-## darafei
+## Darafei
 
-🇺🇦🇵🇱🇩🇪🇱🇻🇦🇹🇱🇹🇳🇱🇪🇸🇩🇰🇬🇷
+🇺🇦🇵🇱🇩🇪🇱🇻🇦🇹🇱🇹🇳🇱🇪🇸🇩🇰🇬🇷🇮🇹🇸🇮 - `12`
